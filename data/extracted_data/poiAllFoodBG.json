@@ -1,0 +1,5646 @@
+[
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 399148228,
+        "lat": 44.768189,
+        "lon": 20.4757182,
+        "tags": {
+            "alt_name": "Ekskluziv;Ексклузив",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "name": "Exkluziv"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 462509205,
+        "lat": 44.8141442,
+        "lon": 20.4569695,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "1",
+            "addr:postcode": "11000",
+            "addr:street": "Бранкова",
+            "amenity": "fast_food",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "brand:wikipedia": "en:McDonald's",
+            "check_date": "2025-04-29",
+            "cuisine": "burger",
+            "internet_access": "wlan",
+            "level": "0",
+            "name": "McDonald's",
+            "name:en": "McDonald's",
+            "name:ru": "Макдональдс",
+            "opening_hours": "07:00-24:00",
+            "payment:mastercard": "yes",
+            "payment:visa": "yes",
+            "smoking": "outside",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 476010399,
+        "lat": 44.8014045,
+        "lon": 20.4760253,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "2",
+            "addr:postcode": "11000",
+            "addr:street": "Милешевска",
+            "amenity": "restaurant",
+            "contact:instagram": "https://www.instagram.com/kalenickafana/",
+            "cuisine": "regional",
+            "indoor_seating": "yes",
+            "name": "Каленић",
+            "name:de": "Kalenic",
+            "name:en": "Kalenić",
+            "name:sr": "Каленић",
+            "name:sr-Latn": "Kalenić",
+            "opening_hours": "Mo-Su 08:00-00:00",
+            "operator": "LULU LEMON d.o.o.",
+            "outdoor_seating": "yes",
+            "pets_allowed": "yes",
+            "phone": "+381 11 2450666",
+            "toilets:wheelchair": "no",
+            "wheelchair": "limited"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 578127767,
+        "lat": 44.802212,
+        "lon": 20.3855298,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "153a",
+            "addr:postcode": "11000",
+            "addr:street": "Јурија Гагарина",
+            "air_conditioning": "yes",
+            "amenity": "fast_food",
+            "amenity_1": "cafe",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "brand:wikipedia": "en:McDonald's",
+            "check_date": "2025-03-16",
+            "cuisine": "burger",
+            "delivery": "yes",
+            "diet:vegetarian": "yes",
+            "drive_through": "yes",
+            "internet_access": "wlan",
+            "name": "McDonald's",
+            "opening_hours": "07:00-24:00",
+            "opening_hours:drive_through": "00:00-03:00, 07:00-00:00; PH open",
+            "outdoor_seating": "yes",
+            "payment:cards": "yes",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "payment:mastercard": "yes",
+            "payment:qr_code": "no",
+            "payment:visa": "yes",
+            "phone": "+381 11 31 84 385",
+            "smoking": "outside",
+            "source": "local knowledge",
+            "takeaway": "yes",
+            "toilets:wheelchair": "yes",
+            "website": "https://www.mcdonalds.rs/",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 830401186,
+        "lat": 44.830841,
+        "lon": 20.4131085,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "burger",
+            "delivery": "no",
+            "drive_through": "no",
+            "name": "Перпер",
+            "name:en": "Perper",
+            "name:sr": "Перпер",
+            "name:sr-Latn": "Perper",
+            "opening_hours": "24/7",
+            "smoking": "outside",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 830404250,
+        "lat": 44.8305145,
+        "lon": 20.4139861,
+        "tags": {
+            "amenity": "fast_food",
+            "check_date": "2025-09-18",
+            "check_date:opening_hours": "2023-06-18",
+            "cuisine": "regional",
+            "delivery": "no",
+            "drive_through": "no",
+            "int_name": "Sis",
+            "name": "Шиш",
+            "name:en": "Shish",
+            "name:sr": "Шиш",
+            "name:sr-Latn": "Šiš",
+            "opening_hours:signed": "no",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "id": 928037370,
+        "lat": 44.815395,
+        "lon": 20.4367073,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "4",
+            "addr:postcode": "11070",
+            "addr:street": "Булевар Михајла Пупина",
+            "addr:suburb": "Нови Београд",
+            "alt_name": "Kentucky Fried Chicken",
+            "amenity": "fast_food",
+            "brand": "KFC",
+            "brand:wikidata": "Q524757",
+            "brand:wikipedia": "en:KFC",
+            "cuisine": "chicken",
+            "diet:vegetarian": "no",
+            "drive_through": "no",
+            "level": "2",
+            "name": "KFC",
+            "name:sr": "КФЦ",
+            "name:sr-Latn": "KFC",
+            "opening_hours": "Mo-Su 10:00-22:00",
+            "phone": "+381 64 8730006",
+            "smoking": "no",
+            "takeaway": "yes",
+            "toilets:wheelchair": "yes",
+            "website": "https://www.kfc.rs/",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 1018350662,
+        "lat": 44.8256283,
+        "lon": 20.4568166,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "regional",
+            "indoor_seating": "no",
+            "name": "Bart",
+            "outdoor_seating": "yes"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 1102951561,
+        "lat": 44.7892786,
+        "lon": 20.4041002,
+        "tags": {
+            "amenity": "restaurant",
+            "check_date": "2026-06-07",
+            "contact:facebook": "https://www.facebook.com/restoranizavicaj/",
+            "contact:instagram": "https://www.instagram.com/restoranizavicaj/",
+            "contact:tiktok": "https://www.tiktok.com/@restorani_zavicaj",
+            "cuisine": "regional",
+            "email": "info@zavicaj.rs",
+            "int_name": "Zavicaj",
+            "kids_area:outdoor": "yes",
+            "name": "Zavičaj",
+            "name:sr": "Завичај",
+            "name:sr-Latn": "Zavičaj",
+            "opening_hours": "Mo-Su 09:00-21:00",
+            "phone": "+381 60 6002557",
+            "website": "https://www.restoranzavicaj.rs"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 1364769240,
+        "lat": 44.7299847,
+        "lon": 20.3830847,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "name": "Walter"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 1600666454,
+        "lat": 44.8138644,
+        "lon": 20.4283058,
+        "tags": {
+            "addr:housenumber": "44",
+            "addr:postcode": "11070",
+            "addr:street": "Булевар Зорана Ђинђића",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Srem",
+            "internet_access": "yes",
+            "name": "Срем",
+            "name:en": "Srem",
+            "name:sr": "Срем",
+            "name:sr-Latn": "Srem",
+            "website": "https://www.restoransrem.com/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 1634912097,
+        "lat": 44.8180929,
+        "lon": 20.4645497,
+        "tags": {
+            "addr:housenumber": "29a",
+            "addr:street": "Скадарска",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Putujuci glumac",
+            "name": "Путујући глумац",
+            "name:sr": "Путујући глумац",
+            "name:sr-Latn": "Putujući glumac",
+            "opening_hours": "Mo-Su 09:00-04:00",
+            "phone": "+381 63 1963790"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 1634937964,
+        "lat": 44.8175577,
+        "lon": 20.4647589,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Gaca",
+            "name": "Гаћа",
+            "name:sr": "Гаћа",
+            "name:sr-Latn": "Gaća"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 1634937966,
+        "lat": 44.8167718,
+        "lon": 20.463688,
+        "tags": {
+            "addr:housenumber": "18",
+            "addr:street": "Скадарска",
+            "amenity": "restaurant",
+            "check_date": "2026-06-07",
+            "check_date:opening_hours": "2025-03-28",
+            "contact:facebook": "https://www.facebook.com/restoranizavicaj/",
+            "contact:instagram": "https://www.instagram.com/restoranizavicaj/",
+            "contact:tiktok": "https://www.tiktok.com/@restorani_zavicaj",
+            "cuisine": "regional",
+            "email": "info@zavicaj.rs",
+            "int_name": "Zavičaj",
+            "name": "Zavičaj",
+            "name:sr": "Завичај",
+            "name:sr-Latn": "Zavičaj",
+            "opening_hours": "Mo-Th 08:00-24:00, Fr,Sa 08:00-01:00, Su 10:00-23:00",
+            "phone": "+381 60 6002591",
+            "website": "https://www.restoranzavicaj.rs"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 1634937968,
+        "lat": 44.8174963,
+        "lon": 20.464101,
+        "tags": {
+            "amenity": "restaurant",
+            "check_date": "2024-07-13",
+            "cuisine": "regional",
+            "email": "rezervacije@dvajelena.rs",
+            "int_name": "Dva jelena",
+            "name": "Два јелена",
+            "name:en": "Dva jelena",
+            "name:sr": "Два јелена",
+            "name:sr-Latn": "Dva jelena",
+            "opening_hours": "Mo-Su 10:00-01:00",
+            "phone": "+381 62 350002",
+            "website": "http://www.dvajelena.rs/",
+            "wikidata": "Q65200062",
+            "wikipedia": "sr:Кафана Два јелена"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 1634937981,
+        "lat": 44.8172363,
+        "lon": 20.4639323,
+        "tags": {
+            "addr:housenumber": "26",
+            "addr:street": "Скадарска",
+            "amenity": "restaurant",
+            "check_date": "2026-06-07",
+            "contact:facebook": "https://www.facebook.com/zlatnibokal/",
+            "contact:instagram": "https://www.instagram.com/zlatni_bokal/",
+            "contact:linkedin": "https://www.linkedin.com/company/zlatni-bokal/",
+            "cuisine": "regional",
+            "int_name": "Zlatni bokal",
+            "level": "0",
+            "name": "Златни бокал",
+            "name:sr": "Златни бокал",
+            "name:sr-Latn": "Zlatni bokal",
+            "opening_hours": "Mo-Su 10:00-02:00",
+            "phone": "+381 60 1111992",
+            "website": "https://zlatnibokal.com"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 1634938018,
+        "lat": 44.817597,
+        "lon": 20.4639383,
+        "tags": {
+            "addr:housenumber": "21",
+            "addr:street": "Скадарска",
+            "amenity": "restaurant",
+            "check_date": "2024-07-13",
+            "contact:facebook": "https://www.facebook.com/sesirmojrestoran",
+            "contact:instagram": "https://www.instagram.com/sesir_moj/",
+            "cuisine": "regional",
+            "email": "info@sesirmoj.rs",
+            "int_name": "Sesir moj",
+            "name": "Шешир мој",
+            "name:en": "Sesir moj",
+            "name:sr": "Шешир мој",
+            "name:sr-Latn": "Šešir moj",
+            "opening_hours": "Mo-Su 10:00-01:00",
+            "phone": "+381 11 7228750;+381 11 7346777",
+            "website": "https://www.sesirmoj.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 1781800254,
+        "lat": 44.7824544,
+        "lon": 20.3814907,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "regional"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 1783649494,
+        "lat": 44.7867983,
+        "lon": 20.3961318,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "regional",
+            "ele": "127.6",
+            "int_name": "Cudesa od mesa",
+            "name": "Чудеса од меса",
+            "name:sr": "Чудеса од меса",
+            "name:sr-Latn": "Čudesa od mesa"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 1783649497,
+        "lat": 44.7866594,
+        "lon": 20.3951333,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "regional",
+            "ele": "118.1"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 1783649501,
+        "lat": 44.7867401,
+        "lon": 20.3957248,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "regional",
+            "ele": "127.8"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 1902768968,
+        "lat": 44.8235827,
+        "lon": 20.4593988,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "indoor_seating": "yes",
+            "int_name": "Sarajevski",
+            "level": "0",
+            "name": "Сарајевски",
+            "name:en": "Sarajevski",
+            "name:sr": "Сарајевски",
+            "name:sr-Latn": "Sarajevski",
+            "opening_hours": "24/7",
+            "outdoor_seating": "yes",
+            "phone": "+381 11 291048",
+            "smoking": "yes",
+            "website": "https://www.sarajevski.rs",
+            "wheelchair": "no"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 2003114570,
+        "lat": 44.6292409,
+        "lon": 20.3782437,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Srbija",
+            "name": "Србија",
+            "name:sr": "Србија",
+            "name:sr-Latn": "Srbija"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "id": 2093870459,
+        "lat": 44.8184841,
+        "lon": 20.4583735,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "24",
+            "addr:postcode": "11000",
+            "addr:street": "Васе Чарапића",
+            "air_conditioning": "yes",
+            "alt_name": "Kentucky Fried Chicken",
+            "amenity": "fast_food",
+            "brand": "KFC",
+            "brand:wikidata": "Q524757",
+            "brand:wikipedia": "en:KFC",
+            "cuisine": "chicken",
+            "delivery": "yes",
+            "indoor_seating": "yes",
+            "internet_access": "wlan",
+            "name": "KFC",
+            "name:sr": "КФЦ",
+            "opening_hours": "Su-Th 08:00-23:00; Fr-Sa 08:00-00:00",
+            "outdoor_seating": "no",
+            "phone": "+381 64 8730002",
+            "smoking": "no",
+            "takeaway": "yes",
+            "toilets:wheelchair": "no",
+            "website": "https://www.kfc.rs/",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 2449397873,
+        "lat": 44.8198628,
+        "lon": 20.4714664,
+        "tags": {
+            "addr:housenumber": "23",
+            "addr:postcode": "11000",
+            "addr:street": "Венизелосова",
+            "amenity": "fast_food",
+            "cuisine": "burger",
+            "int_name": "Zuca",
+            "name": "Жућа",
+            "name:sr": "Жућа",
+            "name:sr-Latn": "Žuća",
+            "opening_hours": "Mo-Sa 07:00-00:00",
+            "phone": "+381 11 339 1195"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 2459623963,
+        "lat": 44.757101,
+        "lon": 20.4349766,
+        "tags": {
+            "addr:housenumber": "88a",
+            "addr:street": "Кнеза Вишеслава",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Bajka",
+            "name": "Бајка",
+            "name:sr": "Бајка",
+            "name:sr-Latn": "Bajka"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 2459623965,
+        "lat": 44.7586644,
+        "lon": 20.433311,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Filmski Grad",
+            "name": "Филмски Град",
+            "name:sr": "Филмски Град",
+            "name:sr-Latn": "Filmski Grad"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 2459629022,
+        "lat": 44.7640637,
+        "lon": 20.4277406,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Studenstka menza Kosutnjak",
+            "name": "Студенстка менза Кошутњак",
+            "name:sr": "Студенстка менза Кошутњак",
+            "name:sr-Latn": "Studenstka menza Košutnjak"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 2459634293,
+        "lat": 44.7649295,
+        "lon": 20.4239772,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "name": "Клуб Сателит",
+            "name:en": "Klub Satelit",
+            "name:sr": "Клуб Сателит",
+            "name:sr-Latn": "Klub Satelit"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 2459662609,
+        "lat": 44.7774735,
+        "lon": 20.4141745,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "98a",
+            "addr:postcode": "11000",
+            "addr:street": "Пожешка",
+            "amenity": "fast_food",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "brand:wikipedia": "en:McDonald's",
+            "cuisine": "burger",
+            "int_name": "McDonald's",
+            "name": "McDonald's",
+            "opening_hours": "Mo-Th 07:00-00:00; Fr-Sa 07:00-01:00; Su 08:00-00:00",
+            "phone": "+381 11 35 44 473",
+            "smoking": "outside",
+            "takeaway": "yes",
+            "website": "https://www.mcdonalds.rs/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "local",
+        "id": 2462249480,
+        "lat": 44.8094354,
+        "lon": 20.4584648,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "77",
+            "addr:postcode": "11000",
+            "addr:street": "Гаврила Принципа",
+            "amenity": "restaurant",
+            "check_date": "2024-09-15",
+            "contact:facebook": "https://www.facebook.com/restoranizavicaj/",
+            "contact:instagram": "https://www.instagram.com/restoranizavicaj/",
+            "contact:tiktok": "https://www.tiktok.com/@restorani_zavicaj",
+            "cuisine": "local",
+            "indoor_seating": "yes",
+            "int_name": "Zavicaj",
+            "level": "0",
+            "name": "Завичај",
+            "name:sr": "Завичај",
+            "name:sr-Latn": "Zavičaj",
+            "opening_hours": "Mo-Su 09:00-23:00",
+            "outdoor_seating": "yes",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "phone": "+381 63 369670",
+            "smoking": "separated",
+            "toilets": "yes",
+            "toilets:access": "permissive",
+            "website": "https://www.restoranzavicaj.rs/",
+            "wheelchair": "no"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 2463831740,
+        "lat": 44.8009088,
+        "lon": 20.3831225,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "burger",
+            "name": "Duff",
+            "phone": "+381 63 1111 575",
+            "website": "http://duff.rs/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "fish",
+        "id": 2508127059,
+        "lat": 44.8501973,
+        "lon": 20.4088551,
+        "tags": {
+            "addr:street": "Кеј ослобођења",
+            "amenity": "restaurant",
+            "check_date": "2023-11-04",
+            "contact:facebook": "klubradeckizemun",
+            "contact:instagram": "klubradecki_zemun",
+            "cuisine": "fish",
+            "delivery": "yes",
+            "delivery:partner": "Wolt",
+            "name": "Радецки",
+            "name:en": "Radecki",
+            "name:sr": "Радецки",
+            "name:sr-Latn": "Radecki",
+            "opening_hours": "Mo-Su 08:00-23:00",
+            "phone": "+381640020029",
+            "website": "https://ribljirestoran.rs/",
+            "website:menu": "https://ribljirestoran.rs/jelovnik/",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 2510612614,
+        "lat": 44.4408841,
+        "lon": 20.6925438,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Stara Mehana",
+            "name": "Стара Механа",
+            "name:sr": "Стара Механа",
+            "name:sr-Latn": "Stara Mehana",
+            "smoking": "yes",
+            "wikidata": "Q85999469",
+            "wikipedia": "sr:Стара механа „Космај”"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 2510612618,
+        "lat": 44.4413207,
+        "lon": 20.6938098,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "burger",
+            "int_name": "SAT",
+            "name": "САТ",
+            "name:sr": "САТ",
+            "name:sr-Latn": "SAT"
+        }
+    },
+    {
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "id": 2510645885,
+        "lat": 44.4401793,
+        "lon": 20.6983159,
+        "tags": {
+            "amenity": "cafe",
+            "check_date": "2026-05-14",
+            "cuisine": "regional",
+            "internet_access": "wlan",
+            "name": "Garden",
+            "smoking": "yes"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 2558540663,
+        "lat": 44.8804025,
+        "lon": 20.3205729,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Pecenjara NK",
+            "name": "Печењара НК",
+            "name:sr": "Печењара НК",
+            "name:sr-Latn": "Pečenjara NK",
+            "opening_hours": "Mo-Sa 10:00-21:00",
+            "phone": "+381 11 7870645"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 2574835118,
+        "lat": 44.819061,
+        "lon": 20.4668335,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "regional",
+            "int_name": "Bajlonko",
+            "name": "Бајлонко",
+            "name:sr": "Бајлонко",
+            "name:sr-Latn": "Bajlonko",
+            "opening_hours": "Mo-Su 06:00-21:00",
+            "phone": "+381 11 3344605"
+        }
+    },
+    {
+        "amenity": "cafe",
+        "cuisine": "greek",
+        "id": 2785115671,
+        "lat": 44.7716641,
+        "lon": 20.4835601,
+        "tags": {
+            "amenity": "cafe",
+            "cuisine": "greek",
+            "ele": "3",
+            "internet_access": "yes",
+            "name": "Kafe Bar „Cup”",
+            "opening_hours": "09:00-23:00",
+            "phone": "+381652320000",
+            "smoking": "no",
+            "wheelchair": "limited"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 2788814035,
+        "lat": 44.8171963,
+        "lon": 20.4552095,
+        "tags": {
+            "addr:housenumber": "11",
+            "addr:street": "Вука Караџића",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "indoor_seating": "yes",
+            "int_name": "Prolece",
+            "name": "Пролеће",
+            "name:sr": "Пролеће",
+            "name:sr-Latn": "Proleće",
+            "opening_hours": "Mo-Su 09:00-23:00",
+            "outdoor_seating": "yes",
+            "phone": "+381 11 2635 436",
+            "smoking": "yes",
+            "website": "https://restoranprolece.rs/",
+            "wheelchair": "yes",
+            "wikidata": "Q110047148",
+            "wikipedia": "sr:Ресторан Пролеће (Београд)"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "fish",
+        "id": 3030472161,
+        "lat": 44.8058602,
+        "lon": 20.4570087,
+        "tags": {
+            "amenity": "restaurant",
+            "check_date": "2025-05-30",
+            "cuisine": "fish",
+            "indoor_seating": "yes",
+            "name": "Ribarnica Atlantic",
+            "opening_hours": "Mo-Fr 09:00-17:00; Sa 12:00-16:00",
+            "outdoor_seating": "no",
+            "payment:cards": "no",
+            "payment:cash": "yes",
+            "payment:credit_cards": "no",
+            "payment:debit_cards": "no",
+            "smoking": "no",
+            "wheelchair": "no"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "russian",
+        "id": 3030581228,
+        "lat": 44.8247703,
+        "lon": 20.4571115,
+        "tags": {
+            "addr:housenumber": "14",
+            "addr:street": "Цара Душана",
+            "amenity": "fast_food",
+            "check_date": "2026-06-06",
+            "contact:instagram": "https://www.instagram.com/kod_galine_pelmeni",
+            "cuisine": "russian",
+            "drive_through": "no",
+            "name": "Kod Galine",
+            "opening_hours": "Mo-Fr 11:00-20:00",
+            "smoking": "no",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 3030604566,
+        "lat": 44.820983,
+        "lon": 20.4626786,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "57",
+            "addr:street": "Страхињића Бана",
+            "amenity": "restaurant",
+            "check_date": "2026-04-15",
+            "cuisine": "regional",
+            "delivery": "yes",
+            "indoor_seating": "yes",
+            "int_name": "Valter",
+            "internet_access": "wlan",
+            "name": "Валтер",
+            "name:en": "Walter",
+            "name:sr": "Валтер",
+            "name:sr-Latn": "Walter Sarajevski ćevap",
+            "opening_hours": "09:00-01:00",
+            "outdoor_seating": "yes",
+            "smoking": "yes",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "greek",
+        "id": 3079295442,
+        "lat": 44.8188861,
+        "lon": 20.4668736,
+        "tags": {
+            "addr:floor": "G",
+            "amenity": "fast_food",
+            "check_date": "2026-02-13",
+            "cuisine": "greek",
+            "internet_access": "no",
+            "level": "0",
+            "name": "Kostas Gyros",
+            "opening_hours": "Mo-Sa 08:00-23:00",
+            "phone": "+381 60 6012350",
+            "smoking": "no",
+            "wheelchair": "no"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 3122650717,
+        "lat": 44.7861053,
+        "lon": 20.4727205,
+        "tags": {
+            "addr:housenumber": "27/r",
+            "addr:street": "Трише Кацлеровића",
+            "amenity": "restaurant",
+            "capacity": "50",
+            "cuisine": "regional",
+            "name": "Malo Korzo",
+            "smoking": "separated"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 3190327731,
+        "lat": 44.8150885,
+        "lon": 20.4694194,
+        "tags": {
+            "addr:housenumber": "32",
+            "addr:street": "Хиландарска",
+            "amenity": "fast_food",
+            "cuisine": "burger",
+            "name": "Bullger bar",
+            "name:sr": "Булгер бар",
+            "name:sr-Latn": "Bullger bar"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "balkan",
+        "id": 3294754861,
+        "lat": 44.7911981,
+        "lon": 20.4975906,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "balkan",
+            "indoor_seating": "yes",
+            "name": "Good Food",
+            "outdoor_seating": "no",
+            "smoking": "yes",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "balkan",
+        "id": 3298901261,
+        "lat": 44.7933568,
+        "lon": 20.5048689,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "balkan",
+            "int_name": "Rostilj",
+            "name": "Роштиљ"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 3463486215,
+        "lat": 44.8102489,
+        "lon": 20.476673,
+        "tags": {
+            "air_conditioning": "yes",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Palilula",
+            "name": "Палилула",
+            "name:sr-Latn": "Palilula",
+            "opening_hours": "Mo-Fr 11:00-22:00; Su 12:00-19:00"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 3463504817,
+        "lat": 44.8081958,
+        "lon": 20.4769368,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "regional"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 3464436332,
+        "lat": 44.8110799,
+        "lon": 20.4724199,
+        "tags": {
+            "addr:housenumber": "7",
+            "addr:street": "Илије Гарашанина",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Cevaplija",
+            "name": "Ћеваплија",
+            "name:sr": "Ћеваплија",
+            "name:sr-Latn": "Ćevaplija",
+            "opening_hours": "Mo-Su 07:30-23:30",
+            "website": "https://www.cevaplija.rs/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "russian",
+        "id": 3493379597,
+        "lat": 44.8095819,
+        "lon": 20.4760483,
+        "tags": {
+            "amenity": "restaurant",
+            "check_date": "2025-12-19",
+            "contact:instagram": "https://www.instagram.com/gurme.beograd/",
+            "cuisine": "russian",
+            "level": "-1",
+            "name": "Gurme",
+            "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 10:00-21:00",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "smoking": "outside"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "id": 3498824424,
+        "lat": 44.8071927,
+        "lon": 20.4779633,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "sandwich",
+            "int_name": "Sumadinac",
+            "name": "Шумадинац",
+            "name:sr": "Шумадинац",
+            "name:sr-Latn": "Šumadinac"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 3522324260,
+        "lat": 44.809555,
+        "lon": 20.4803039,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "110",
+            "addr:postcode": "11000",
+            "addr:street": "Цвијићева",
+            "amenity": "restaurant",
+            "capacity": "100",
+            "check_date": "2025-08-26",
+            "cuisine": "regional",
+            "delivery": "no",
+            "name": "Lorenzo & Kakalamba",
+            "opening_hours": "Mo-Th,Su 12:00-24:00; Fr-Sa 12:00-01:00",
+            "smoking": "separated",
+            "takeaway": "no"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 3607689682,
+        "lat": 44.8098182,
+        "lon": 20.4808578,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Kosmaj",
+            "name": "Космај"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 3645956446,
+        "lat": 44.8108484,
+        "lon": 20.4744415,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "name": "Walter",
+            "opening_hours": "Mo-Sa 09:00-23:30; Su 11:00-23:30",
+            "outdoor_seating": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 3805957705,
+        "lat": 44.8072125,
+        "lon": 20.4709534,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "62",
+            "addr:postcode": "11000",
+            "addr:street": "Булевар краља Александра",
+            "air_conditioning": "yes",
+            "amenity": "fast_food",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "brand:wikipedia": "en:McDonald's",
+            "check_date": "2025-01-10",
+            "cuisine": "burger",
+            "indoor_seating": "yes",
+            "level": "0",
+            "name": "McDonald's",
+            "name:tr": "Mc donalt",
+            "opening_hours": "Mo-Su 08:00-24:00",
+            "outdoor_seating": "yes",
+            "payment:mastercard": "yes",
+            "payment:visa": "yes",
+            "smoking": "outside",
+            "takeaway": "yes",
+            "website": "https://www.mcdonalds.rs/",
+            "wheelchair": "limited"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 3832401942,
+        "lat": 44.8534566,
+        "lon": 20.400946,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "name": "Široka staza"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "id": 3881618429,
+        "lat": 44.7756875,
+        "lon": 20.4897331,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "32",
+            "addr:street": "Заплањска",
+            "alt_name": "Kentucky Fried Chicken",
+            "amenity": "fast_food",
+            "brand": "KFC",
+            "brand:wikidata": "Q524757",
+            "brand:wikipedia": "en:KFC",
+            "cuisine": "chicken",
+            "internet_access": "wlan",
+            "level": "2",
+            "name": "KFC",
+            "name:sr": "КФЦ",
+            "opening_hours": "Mo-Su 10:00-22:00",
+            "phone": "+381 64 8730016",
+            "smoking": "no",
+            "takeaway": "yes",
+            "toilets": "yes",
+            "website": "https://www.kfc.rs/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 3994929561,
+        "lat": 44.7935971,
+        "lon": 20.4619774,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "44",
+            "addr:postcode": "11000",
+            "addr:street": "Облаковска",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "name": "Trešnjin hlad",
+            "opening_hours": "08:00-24:00",
+            "smoking": "separated",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 4157497217,
+        "lat": 44.8173658,
+        "lon": 20.3839131,
+        "tags": {
+            "addr:housenumber": "28а",
+            "addr:street": "Партизанске авијације",
+            "amenity": "fast_food",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "brand:wikipedia": "en:McDonald's",
+            "check_date": "2023-09-25",
+            "cuisine": "burger",
+            "drive_through": "yes",
+            "internet_access": "wlan",
+            "name": "McDonald's",
+            "opening_hours": "Mo-Su 07:00-24:00",
+            "opening_hours:drive_through": "24/7",
+            "phone": "+381 11 3180705",
+            "smoking": "outside",
+            "takeaway": "yes",
+            "website": "https://www.mcdonalds.rs/restoran/bezanijska-kosa/"
+        }
+    },
+    {
+        "amenity": "cafe",
+        "cuisine": "burger",
+        "id": 4211267231,
+        "lat": 44.7582244,
+        "lon": 20.4244674,
+        "tags": {
+            "amenity": "cafe",
+            "cuisine": "burger",
+            "internet_access": "yes",
+            "name": "Fox Cafe"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "balkan",
+        "id": 4214328193,
+        "lat": 44.79076,
+        "lon": 20.4977361,
+        "tags": {
+            "addr:housenumber": "86",
+            "addr:street": "Војислава Илића",
+            "air_conditioning": "yes",
+            "amenity": "restaurant",
+            "cuisine": "balkan",
+            "indoor_seating": "yes",
+            "int_name": "Sindjelic",
+            "name": "Синђелић",
+            "name:sr": "Синђелић",
+            "name:sr-Latn": "Sinđelić",
+            "opening_hours": "Mo-Su 09:00-23:00",
+            "outdoor_seating": "yes",
+            "wikidata": "Q110047150",
+            "wikipedia": "sr:Ресторан Синђелић (Београд)"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 4276323391,
+        "lat": 44.748524,
+        "lon": 20.4531727,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "15g",
+            "addr:postcode": "11090",
+            "addr:street": "Борска",
+            "amenity": "fast_food",
+            "cuisine": "regional",
+            "delivery": "yes",
+            "drive_through": "no",
+            "name": "Kod Dobrog Domaćina",
+            "opening_hours": "08:00-24:00",
+            "outdoor_seating": "no",
+            "phone": "+381603305833",
+            "ref:RS:kucni_broj": "3249461",
+            "smoking": "separated",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 4307617992,
+        "lat": 44.8103635,
+        "lon": 20.4850173,
+        "tags": {
+            "addr:housenumber": "63",
+            "addr:street": "Рузвелтова",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Kosovski bozur",
+            "internet_access": "wlan",
+            "name": "Косовски божур",
+            "name:sr": "Косовски божур",
+            "name:sr-Latn": "Kosovski božur",
+            "opening_hours": "Mo-Sa 08:00-17:00",
+            "ref:RS:kucni_broj": "3174010"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 4307617995,
+        "lat": 44.8134356,
+        "lon": 20.4820898,
+        "tags": {
+            "addr:street": "Здравка Челара",
+            "amenity": "fast_food",
+            "cuisine": "burger",
+            "internet_access": "wlan",
+            "name": "Mačak",
+            "opening_hours": "Mo-Fr 08:00-22:00; Sa 13:00-22:00"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 4311483093,
+        "lat": 44.8103449,
+        "lon": 20.480961,
+        "tags": {
+            "addr:street": "Албанске споменице",
+            "amenity": "restaurant",
+            "cuisine": "regional"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 4317407599,
+        "lat": 44.8028839,
+        "lon": 20.4765018,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "20",
+            "addr:postcode": "11000",
+            "addr:street": "Голсвордијева",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "indoor_seating": "yes",
+            "int_name": "Potkovica",
+            "name": "Потковица",
+            "name:sr": "Потковица",
+            "name:sr-Latn": "Potkovica",
+            "opening_hours": "Mo-Sa 10:00-23:00",
+            "outdoor_seating": "yes",
+            "phone": "+381 11 2436363"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "barbecue",
+        "id": 4362567589,
+        "lat": 44.7938851,
+        "lon": 20.5263905,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "barbecue",
+            "name": "Walter"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "grill",
+        "id": 4396583790,
+        "lat": 44.8110078,
+        "lon": 20.4617915,
+        "tags": {
+            "addr:housenumber": "2",
+            "addr:postcode": "11000",
+            "addr:street": "Краља Милана",
+            "amenity": "restaurant",
+            "check_date": "2025-08-06",
+            "cuisine": "grill",
+            "indoor_seating": "yes",
+            "internet_access": "wlan",
+            "name": "Азбука",
+            "name:en": "Azbuka",
+            "name:ru": "Азбука",
+            "name:sr": "Азбука",
+            "name:sr-Latn": "Azbuka",
+            "opening_hours": "Mo-Sa 09:00-02:00; Su 09:00-00:00",
+            "outdoor_seating": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 4426273299,
+        "lat": 44.7756602,
+        "lon": 20.4892666,
+        "tags": {
+            "amenity": "fast_food",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "brand:wikipedia": "en:McDonald's",
+            "cuisine": "burger",
+            "name": "McDonald's",
+            "name:sr-Latn": "McDonald's",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 4512551513,
+        "lat": 44.4798664,
+        "lon": 20.6218629,
+        "tags": {
+            "addr:street": "Кошутичка",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "delivery": "no",
+            "description": "Etno Restoran, Jahanje Konja, Streličarstvo, Smeštaj",
+            "int_name": "Etno selo Americ",
+            "name": "Етно село Амерић",
+            "name:sr": "Етно село Амерић",
+            "name:sr-Latn": "Etno selo Amerić",
+            "phone": "+381653344544",
+            "smoking": "yes",
+            "takeaway": "no",
+            "website": "https://www.etnoseloameric.rs/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "fish",
+        "id": 4549572689,
+        "lat": 44.6741942,
+        "lon": 20.7194252,
+        "tags": {
+            "addr:city": "Гроцка",
+            "addr:housenumber": "29",
+            "addr:postcode": "11306",
+            "addr:street": "Седамнаестог октобра",
+            "amenity": "restaurant",
+            "cuisine": "fish",
+            "int_name": "Kafana Ljuba Trovac",
+            "name": "Кафана Љуба Тровач",
+            "opening_hours": "Tu-Su 11:00-20:00",
+            "phone": "+381118501011"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 4660004704,
+        "lat": 44.7789796,
+        "lon": 20.4585927,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:postcode": "11040",
+            "addr:street": "Булевар кнеза Александра Карађорђевића",
+            "amenity": "fast_food",
+            "cuisine": "regional",
+            "name": "Mr Grill"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 4697734834,
+        "lat": 44.7970828,
+        "lon": 20.4384517,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:country": "RS",
+            "addr:housenumber": "37",
+            "addr:street": "Булевар војводе Мишића",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "name": "Мала Славија",
+            "name:en": "Mala Slavija",
+            "name:sr": "Мала Славија",
+            "name:sr-Latn": "Mala Slavija",
+            "opening_hours": "Mo-Su 09:00-00:00",
+            "smoking": "separated"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "balkan",
+        "id": 4718239189,
+        "lat": 44.788297,
+        "lon": 20.5330076,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "balkan",
+            "internet_access": "wlan",
+            "name": "Amsterdam caffe & restaurant",
+            "opening_hours": "Mo-Su 08:00-00:00"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "fish",
+        "id": 4741733429,
+        "lat": 44.8317309,
+        "lon": 20.494554,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "fish",
+            "delivery": "no",
+            "int_name": "Konoba kod Goce i Renata",
+            "name": "Коноба код Гоце и Рената",
+            "name:sr": "Коноба код Гоце и Рената",
+            "name:sr-Latn": "Konoba kod Goce i Renata",
+            "outdoor_seating": "yes",
+            "smoking": "separated"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "balkan",
+        "id": 4774547552,
+        "lat": 44.8283714,
+        "lon": 20.4518487,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "balkan",
+            "int_name": "Beogradsko sokace",
+            "internet_access": "wlan",
+            "name": "Београдско сокаче",
+            "name:sr": "Београдско сокаче",
+            "name:sr-Latn": "Beogradsko sokače",
+            "nohousenumber": "yes",
+            "opening_hours": "Mo-Su 10:00-24:00",
+            "phone": "+381113287939"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "balkan",
+        "id": 4876911521,
+        "lat": 44.8587429,
+        "lon": 20.3734261,
+        "tags": {
+            "addr:housenumber": "2х",
+            "addr:postcode": "11186",
+            "addr:street": "Милице Шуваковић",
+            "amenity": "fast_food",
+            "cuisine": "balkan",
+            "int_name": "Leskovacki sampioni",
+            "name": "Лесковачки шампиони",
+            "name:sr": "Лесковачки шампиони",
+            "name:sr-Latn": "Leskovački šampioni",
+            "opening_hours": "Mo-Su 08:00-22:00",
+            "phone": "+381655099575",
+            "website": "http://www.leskovackisampioni.rs"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "balkan",
+        "id": 4879299122,
+        "lat": 44.8584026,
+        "lon": 20.3731828,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "balkan",
+            "int_name": "Vamo tamo",
+            "internet_access": "wlan",
+            "name": "Вамо тамо",
+            "name:sr": "Вамо тамо",
+            "name:sr-Latn": "Vamo tamo",
+            "opening_hours": "Mo-Su 07:30-23:00",
+            "phone": "+381 64 2724168"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "balkan",
+        "id": 4883808123,
+        "lat": 44.8533754,
+        "lon": 20.3696203,
+        "tags": {
+            "addr:housenumber": "37a",
+            "addr:street": "Ратарски пут",
+            "amenity": "restaurant",
+            "cuisine": "balkan",
+            "name": "Banija Lux",
+            "name:sr": "Банија Лукс",
+            "name:sr-Latn": "Banija luks",
+            "opening_hours": "Mo-Su 07:00-23:00"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "balkan",
+        "id": 4886310521,
+        "lat": 44.8527277,
+        "lon": 20.3701199,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "balkan",
+            "int_name": "Cevabdzinica „Pink Panter”",
+            "name": "Ћевабџиница „Пинк Пантер”",
+            "name:sr": "Ћевабџиница „Пинк Пантер”",
+            "name:sr-Latn": "Ćevabdžinica „Pink Panter”",
+            "phone": "+381 63 105 7676",
+            "website": "https://www.cevabdzinice.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 5003975722,
+        "lat": 44.8261235,
+        "lon": 20.4591575,
+        "tags": {
+            "amenity": "fast_food",
+            "check_date": "2025-09-21",
+            "cuisine": "regional",
+            "int_name": "Caki",
+            "name": "Чаки",
+            "name:en": "Chakey",
+            "name:sr": "Чаки",
+            "name:sr-Latn": "Čaki"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "gyros",
+        "id": 5009480422,
+        "lat": 44.7590494,
+        "lon": 20.4905534,
+        "tags": {
+            "addr:housenumber": "12",
+            "addr:postcode": "11221",
+            "addr:street": "Генерала Штефаника",
+            "amenity": "fast_food",
+            "cuisine": "gyros",
+            "name": "Smiley",
+            "name:en": "Smiley",
+            "opening_hours": "Mo-Sa 09:00-22:00",
+            "phone": "0117703434"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "fish",
+        "id": 5045067324,
+        "lat": 44.9225028,
+        "lon": 20.3221956,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "fish",
+            "diet:fish": "yes",
+            "name": "Dunav šaranče",
+            "name:en": "Dunav šaranče",
+            "name:sr": "Дунав шаранче",
+            "name:sr-Latn": "Dunav šaranče",
+            "opening_hours": "Mo-Fr 11:00-20:00; Sa-Su 11:00-21:00",
+            "phone": "+381 62 9765873"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 5052370327,
+        "lat": 44.8128886,
+        "lon": 20.4614711,
+        "tags": {
+            "addr:housenumber": "27",
+            "addr:street": "Теразије",
+            "amenity": "fast_food",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "check_date": "2025-05-28",
+            "cuisine": "burger",
+            "indoor_seating": "yes",
+            "level": "0",
+            "name": "McDonald's",
+            "name:en": "McDonald's",
+            "opening_hours": "Mo-Sa 07:00-24:00; Su 08:00-24:00",
+            "outdoor_seating": "yes",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "phone": "+381 11 3235297",
+            "smoking": "outside",
+            "takeaway": "yes",
+            "website": "https://www.mcdonalds.rs/restoran/bezistan/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "balkan",
+        "id": 5062899154,
+        "lat": 44.8201216,
+        "lon": 20.4636083,
+        "tags": {
+            "amenity": "restaurant",
+            "check_date": "2025-09-16",
+            "cuisine": "balkan",
+            "indoor_seating": "yes",
+            "int_name": "Cevap kod Dekija",
+            "name": "Ћевап код Декија",
+            "name:sr": "Ћевап код Декија",
+            "name:sr-Latn": "Ćevap kod Dekija",
+            "outdoor_seating": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 5083433028,
+        "lat": 44.8145472,
+        "lon": 20.4555776,
+        "tags": {
+            "amenity": "fast_food",
+            "check_date": "2026-05-08",
+            "cuisine": "burger",
+            "email": "office@burgerbar.com",
+            "internet_access": "wlan",
+            "name": "BG Burger & Pasta Bar",
+            "opening_hours": "Mo-Th 09:00-23:00; Fr 09:00-01:00; Sa 11:00-01:00; Su 11:00-23:00",
+            "phone": "+381 11 3344892",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "cafe",
+        "cuisine": "european",
+        "id": 5296249121,
+        "lat": 44.801129,
+        "lon": 20.4806572,
+        "tags": {
+            "amenity": "cafe",
+            "cuisine": "european",
+            "name": "Kafe Kozmetičar",
+            "opening_hours": "Mo-Su 09:00-22:00",
+            "outdoor_seating": "yes",
+            "phone": "+381 11 2452565",
+            "smoking": "outside"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 5296252524,
+        "lat": 44.7973992,
+        "lon": 20.474426,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:postcode": "11000",
+            "addr:street": "Макензијева",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "indoor_seating": "yes",
+            "internet_access": "wlan",
+            "name": "Чубура",
+            "name:en": "Cubura",
+            "name:sr": "Чубура",
+            "name:sr-Latn": "Čubura",
+            "outdoor_seating": "yes",
+            "phone": "+381 11 2440756"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "balkan",
+        "id": 5303026621,
+        "lat": 44.7882951,
+        "lon": 20.4654029,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:postcode": "11000",
+            "addr:street": "Булевар ослобођења",
+            "addr:unit": "20",
+            "amenity": "restaurant",
+            "capacity": "50",
+            "cuisine": "balkan",
+            "delivery": "yes",
+            "internet_access": "wlan",
+            "name": "На команди",
+            "name:en": "Na komandi",
+            "name:sr-Latn": "Na komandi",
+            "opening_hours": "Mo-Su 08:00-23:00",
+            "outdoor_seating": "yes",
+            "phone": "+381612222463",
+            "smoking": "yes",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "id": 5381687521,
+        "lat": 44.7724714,
+        "lon": 20.4570694,
+        "tags": {
+            "addr:housenumber": "4",
+            "addr:street": "Мајора Јагодића",
+            "amenity": "cafe",
+            "cuisine": "sandwich",
+            "int_name": "Randevu",
+            "name": "Рандеву",
+            "name:en": "Rendez-Vous",
+            "name:sr": "Рандеву",
+            "name:sr-Latn": "Randevu",
+            "smoking": "dedicated"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 5463027786,
+        "lat": 44.7477532,
+        "lon": 20.4305014,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "burger",
+            "name": "Kod Krleta"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "balkan",
+        "id": 5491455122,
+        "lat": 44.817709,
+        "lon": 20.4555918,
+        "tags": {
+            "addr:housenumber": "12",
+            "addr:street": "Вука Караџића",
+            "amenity": "restaurant",
+            "check_date": "2024-05-15",
+            "cuisine": "balkan",
+            "int_name": "Vuk",
+            "name": "Вук",
+            "name:sr": "Вук",
+            "name:sr-Latn": "Vuk",
+            "opening_hours": "Mo-Sa 09:00-23:00; Su 09:00-21:30"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "serbian",
+        "id": 5584149742,
+        "lat": 44.820659,
+        "lon": 20.3956213,
+        "tags": {
+            "addr:housenumber": "216",
+            "addr:street": "Тошин бунар",
+            "amenity": "restaurant",
+            "check_date": "2024-10-19",
+            "cuisine": "serbian",
+            "int_name": "Dren",
+            "name": "Дрен",
+            "name:sr": "Дрен",
+            "name:sr-Latn": "Dren",
+            "outdoor_seating": "yes",
+            "smoking": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "grill",
+        "id": 5591109010,
+        "lat": 44.7827831,
+        "lon": 20.5147479,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "grill",
+            "drive_through": "no",
+            "name": "Caldo",
+            "opening_hours": "24/7",
+            "outdoor_seating": "yes",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "grill",
+        "id": 5597450922,
+        "lat": 44.8171988,
+        "lon": 20.4010315,
+        "tags": {
+            "addr:housenumber": "132a",
+            "addr:street": "Милутина Миланковића",
+            "amenity": "fast_food",
+            "cuisine": "grill",
+            "name": "Leskovacki rostilj KRUNA",
+            "opening_hours": "Mo-Fr 08:00-22:00, Sa-Su 12:00-20:00",
+            "phone": "065 99 55 016"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "balkan",
+        "id": 5834355485,
+        "lat": 44.8188279,
+        "lon": 20.4554558,
+        "tags": {
+            "amenity": "restaurant",
+            "check_date": "2026-03-26",
+            "cuisine": "balkan",
+            "name": "Коларац",
+            "name:en": "Kolarac",
+            "name:sr": "Коларац",
+            "name:sr-Latn": "Kolarac",
+            "opening_hours": "Mo-Su 09:00-23:30",
+            "phone": "+381112638972",
+            "website": "http://restorankolarac.rs",
+            "wikidata": "Q110046207",
+            "wikipedia": "sr:Ресторан „Коларац”"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 6122512135,
+        "lat": 44.7788193,
+        "lon": 20.5251867,
+        "tags": {
+            "addr:housenumber": "44",
+            "addr:street": "Народног фронта",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Trpeza",
+            "name": "Трпеза",
+            "name:sr": "Трпеза",
+            "name:sr-Latn": "Trpeza",
+            "ref:RS:kucni_broj": "3610013",
+            "website": "http://www.trpeza.co.rs"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 6143756819,
+        "lat": 44.7875093,
+        "lon": 20.4363881,
+        "tags": {
+            "addr:housenumber": "27",
+            "addr:street": "Истарска",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "name": "Ресторан 27",
+            "name:en": "Restoran 27",
+            "name:sr": "Ресторан 27",
+            "name:sr-Latn": "Restoran 27",
+            "opening_hours": "Mo-Su 12:00-00:00",
+            "phone": "+381 69 27 011 27",
+            "smoking": "isolated",
+            "website": "https://www.restoran27.rs/"
+        }
+    },
+    {
+        "amenity": "pub",
+        "cuisine": "sandwich",
+        "id": 6326273985,
+        "lat": 44.8190526,
+        "lon": 20.4542952,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "18",
+            "addr:street": "Краља Петра",
+            "air_conditioning": "yes",
+            "amenity": "pub",
+            "check_date": "2025-05-21",
+            "cuisine": "sandwich",
+            "indoor_seating": "yes",
+            "internet_access": "wlan",
+            "level": "0;1",
+            "name": "Harat's Irish Pub",
+            "opening_hours": "Mo-We,Su 12:00-24:00; Th-Sa 12:00-01:00; PH open",
+            "outdoor_seating": "yes",
+            "payment:cash": "yes",
+            "payment:contactless": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "payment:mastercard": "yes",
+            "payment:visa": "yes",
+            "smoking": "yes",
+            "sport": "darts;table_soccer",
+            "toilets": "yes",
+            "website": "https://belgrade.harats.com/en/",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 6426055894,
+        "lat": 44.8240084,
+        "lon": 20.5192345,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "name": "Радак",
+            "name:en": "Radak"
+        }
+    },
+    {
+        "amenity": "cafe",
+        "cuisine": "fish",
+        "id": 6431016486,
+        "lat": 44.5716381,
+        "lon": 20.151288,
+        "tags": {
+            "amenity": "cafe",
+            "cuisine": "fish",
+            "name:en": "Gagi"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "balkan",
+        "id": 6658661785,
+        "lat": 44.8464287,
+        "lon": 20.4151082,
+        "tags": {
+            "addr:housenumber": "8",
+            "addr:street": "Кеј ослобођења",
+            "amenity": "restaurant",
+            "cuisine": "balkan",
+            "email": "restoranstarakapetanija@gmail.com",
+            "int_name": "Stara kapetanija",
+            "name": "Стара капетанија",
+            "name:en": "Stara Kapetanija",
+            "name:sr": "Стара капетанија",
+            "name:sr-Latn": "Stara kapetanija",
+            "operator": "balkan",
+            "outdoor_seating": "yes",
+            "phone": "+381 11 3161965;+381 62 8018884;+381 63 366098",
+            "website": "https://www.starakapetanija.com/index.html"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 6724034529,
+        "lat": 44.7976524,
+        "lon": 20.3706077,
+        "tags": {
+            "addr:housenumber": "120A",
+            "addr:street": "Др Ивана Рибара",
+            "amenity": "restaurant",
+            "contact:instagram": "restoran.staro.ognjiste",
+            "cuisine": "regional",
+            "int_name": "Staro ognjiste",
+            "name": "Старо огњиште",
+            "name:sr": "Старо огњиште",
+            "name:sr-Latn": "Staro ognjište",
+            "opening_hours": "Su-We 09:00-01:00, Th-Sa 09:00-02:00",
+            "phone": "+381 11 22 88 123;+381 11 22 88 120",
+            "website": "https://staro-ognjiste.rs/",
+            "website:menu": "https://staro-ognjiste.rs/meni/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 6736045639,
+        "lat": 44.8021343,
+        "lon": 20.3804797,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Korjeni",
+            "name": "Корјени",
+            "name:sr": "Корјени",
+            "name:sr-Latn": "Korjeni"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 6736054753,
+        "lat": 44.8023334,
+        "lon": 20.3803253,
+        "tags": {
+            "addr:housenumber": "80b",
+            "addr:street": "Јурија Гагарина",
+            "amenity": "fast_food",
+            "check_date": "2024-04-26",
+            "contact:instagram": "https://www.instagram.com/ukus_i_zalogaj",
+            "cuisine": "burger",
+            "diet:meat": "yes",
+            "diet:non-vegetarian": "yes",
+            "drive_through": "no",
+            "email": "ukusizalogaj2019@gmail.com",
+            "int_name": "Ukus & Zalogaj",
+            "level": "0",
+            "name": "Укус & Залогај",
+            "name:sr": "Укус & Залогај",
+            "name:sr-Latn": "Ukus & Zalogaj",
+            "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-16:00",
+            "phone": "+381 61 2815460"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 6764167294,
+        "lat": 44.8157121,
+        "lon": 20.4579138,
+        "tags": {
+            "addr:housenumber": "16",
+            "addr:street": "Обилићев венац",
+            "amenity": "restaurant",
+            "contact:facebook": "https://www.facebook.com/restoranmihailo/",
+            "cuisine": "regional",
+            "name": "Михаило",
+            "name:en": "Mihailo",
+            "name:sr": "Михаило",
+            "name:sr-Latn": "Mihailo",
+            "opening_hours": "Mo-Su 08:00-24:00",
+            "outdoor_seating": "yes",
+            "phone": "+381 640003010"
+        }
+    },
+    {
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "id": 6764469869,
+        "lat": 44.7892512,
+        "lon": 20.5316712,
+        "tags": {
+            "amenity": "cafe",
+            "cuisine": "regional",
+            "int_name": "Kafe Fransiza",
+            "internet_access": "yes",
+            "name": "Кафе Франшиза",
+            "outdoor_seating": "yes",
+            "smoking": "separated"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "balkan",
+        "id": 6777828696,
+        "lat": 44.7954113,
+        "lon": 20.4780738,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "balkan",
+            "indoor_seating": "yes",
+            "int_name": "Stara Srbija",
+            "name": "Стара Србија",
+            "outdoor_seating": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "gyros",
+        "id": 6779232985,
+        "lat": 44.8151759,
+        "lon": 20.4605618,
+        "tags": {
+            "addr:housenumber": "5",
+            "addr:street": "Коларчева",
+            "amenity": "fast_food",
+            "check_date": "2025-06-17",
+            "cuisine": "gyros",
+            "name": "Gyros In City",
+            "opening_hours": "24/7",
+            "smoking": "outside"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "id": 6780349030,
+        "lat": 44.8133286,
+        "lon": 20.4526671,
+        "tags": {
+            "amenity": "restaurant",
+            "check_date": "2025-06-16",
+            "cocktails": "yes",
+            "contact:instagram": "https://www.instagram.com/bistromalipijac/",
+            "cuisine": "french",
+            "int_name": "Mali pijac",
+            "name": "Мали пијац",
+            "name:sr": "Мали пијац",
+            "name:sr-Latn": "Mali pijac",
+            "opening_hours": "Su-Th 09:00-00:00; Fr-Sa 09:00-01:00",
+            "phone": "069 777989",
+            "website": "https://bistromalipijac.rs/",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "amenity": "cafe",
+        "cuisine": "french",
+        "id": 6780744688,
+        "lat": 44.7998605,
+        "lon": 20.4748681,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "82",
+            "addr:postcode": "11000",
+            "addr:street": "Његошева",
+            "amenity": "cafe",
+            "contact:instagram": "https://www.instagram.com/puterbistro/",
+            "cuisine": "french",
+            "indoor_seating": "yes",
+            "int_name": "Puter",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "Путер",
+            "name:sr-Latn": "Puter",
+            "opening_hours": "Mo-Sa 08:00-24:00; Su 08:00-19:00",
+            "outdoor_seating": "yes",
+            "payment:cards": "yes",
+            "payment:cash": "yes",
+            "smoking": "outside"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "id": 6780750190,
+        "lat": 44.7931359,
+        "lon": 20.4724585,
+        "tags": {
+            "amenity": "restaurant",
+            "check_date": "2026-03-30",
+            "cuisine": "seafood",
+            "name": "Malo Ribarsko selo"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "barbecue",
+        "id": 6799918368,
+        "lat": 44.7999246,
+        "lon": 20.3776069,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "barbecue",
+            "int_name": "Pecenje Jankovic",
+            "name": "Печење Јанковић",
+            "name:sr-Latn": "Pečenje Janković"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "balkan",
+        "id": 6832902890,
+        "lat": 44.8170853,
+        "lon": 20.4559756,
+        "tags": {
+            "amenity": "restaurant",
+            "check_date": "2025-09-05",
+            "cuisine": "balkan",
+            "name": "Walter"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 6832968186,
+        "lat": 44.8127197,
+        "lon": 20.4295804,
+        "tags": {
+            "addr:housenumber": "12v",
+            "addr:street": "Булевар Зорана Ђинђића",
+            "amenity": "fast_food",
+            "cuisine": "regional",
+            "diet:vegetarian": "no",
+            "drive_through": "no",
+            "name": "Collina",
+            "opening_hours": "Mo-Fr 07:30-22:00; Sa 10:00-22:00; Su 12:00-22:00"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "sausage",
+        "id": 6833007185,
+        "lat": 44.8160888,
+        "lon": 20.4626159,
+        "tags": {
+            "addr:housenumber": "4",
+            "addr:street": "Скадарска",
+            "amenity": "fast_food",
+            "check_date": "2026-04-18",
+            "check_date:opening_hours": "2026-04-18",
+            "cuisine": "sausage",
+            "int_name": "Skadarlijske kobasice",
+            "name": "Скадарлијске кобасице",
+            "name:en": "Skadarlija Sausages",
+            "name:sr": "Скадарлијске кобасице",
+            "name:sr-Latn": "Skadarlijske kobasice",
+            "opening_hours": "Su-Th 08:00-03:00, Fr,Sa 08:00-04:00",
+            "phone": "+381 69 3221040"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "barbecue",
+        "id": 6838035687,
+        "lat": 44.7974774,
+        "lon": 20.4744263,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:postcode": "11000",
+            "addr:street": "Макензијева",
+            "amenity": "fast_food",
+            "cuisine": "barbecue",
+            "int_name": "Cuburac",
+            "name": "Чубурац",
+            "name:sr": "Чубурац",
+            "name:sr-Latn": "Čuburac",
+            "opening_hours": "Mo-Su 08:00-23:00",
+            "operator": "BEOEXPERT d.o.o.",
+            "phone": "+381 63 1744191"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "grill",
+        "id": 6838102186,
+        "lat": 44.7977221,
+        "lon": 20.4737561,
+        "tags": {
+            "addr:housenumber": "78b",
+            "addr:street": "Макензијева",
+            "amenity": "fast_food",
+            "cuisine": "grill",
+            "delivery": "yes",
+            "drive_through": "no",
+            "indoor_seating": "yes",
+            "int_name": "Baltazar",
+            "name": "Балтазар",
+            "name:sr": "Балтазар",
+            "name:sr-Latn": "Baltazar",
+            "opening_hours": "Mo-Su 08:00-01:00",
+            "outdoor_seating": "yes",
+            "phone": "+381652454768",
+            "website": "https://baltazargrill.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 6858299187,
+        "lat": 44.7992965,
+        "lon": 20.4855537,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "burger"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "balkan",
+        "id": 6959796644,
+        "lat": 44.845165,
+        "lon": 20.4131982,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "balkan",
+            "name": "Walter",
+            "website": "https://walter.rs/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "grill",
+        "id": 6993504256,
+        "lat": 44.7999697,
+        "lon": 20.4889554,
+        "tags": {
+            "addr:housenumber": "145",
+            "addr:street": "Булевар краља Александра",
+            "amenity": "restaurant",
+            "cuisine": "grill",
+            "name": "Pečenjara Marinković",
+            "opening_hours": "Mo-Sa 08:00-16:00; Su 08:00-13:00",
+            "phone": "+381 69 3809890",
+            "website": "https://pecenjaramarinkovic.rs/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 7053183280,
+        "lat": 44.8724709,
+        "lon": 20.4801788,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Srpsko Andrejevo selo",
+            "name": "Српско Андрејево село",
+            "name:sr": "Српско Андрејево село",
+            "name:sr-Latn": "Srpsko Andrejevo selo"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 7055652514,
+        "lat": 44.80155,
+        "lon": 20.3879125,
+        "tags": {
+            "addr:floor": "G",
+            "addr:housenumber": "148a",
+            "addr:street": "Гандијева",
+            "amenity": "fast_food",
+            "check_date": "2026-03-14",
+            "contact:facebook": "https://www.facebook.com/badguysnbg/",
+            "contact:instagram": "https://www.instagram.com/badguysbg",
+            "cuisine": "burger",
+            "drive_through": "no",
+            "email": "office@badguys.rs",
+            "level": "0",
+            "mobile": "+38163331233",
+            "name": "Bad Guys",
+            "opening_hours": "Mo-Sa 11:00-23:00; Su off",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "phone": "+381 63 331233",
+            "website": "https://badguys.rs/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 7056596993,
+        "lat": 44.801576,
+        "lon": 20.3706972,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Balkan ekspres",
+            "name": "Балкан експрес",
+            "name:sr-Latn": "Balkan ekspres"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "id": 7096033050,
+        "lat": 44.8150183,
+        "lon": 20.4637612,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "burger",
+            "name": "Burgos",
+            "name:sr-Latn": "Burgos",
+            "website": "https://burgos.rs/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 7156438959,
+        "lat": 44.8429114,
+        "lon": 20.4085189,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Sac",
+            "name": "Сач",
+            "name:sr": "Сач",
+            "name:sr-Latn": "Sač",
+            "website": "https://www.facebook.com/sacrestoran",
+            "wikidata": "Q110046225",
+            "wikipedia": "sr:Ресторан „Сач”"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "steak",
+        "id": 7177312551,
+        "lat": 44.8127729,
+        "lon": 20.4922833,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "steak",
+            "int_name": "Babaroga",
+            "name": "Бабарога",
+            "name:sr": "Бабарога",
+            "name:sr-Latn": "Babaroga",
+            "opening_hours": "Mo-Su 11:00-23:00",
+            "smoking": "separated",
+            "website": "https://www.restoranbabaroga.com/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 7198361886,
+        "lat": 44.8246324,
+        "lon": 20.4560771,
+        "tags": {
+            "amenity": "fast_food",
+            "contact:facebook": "fatboysfoodco",
+            "contact:instagram": "https://www.instagram.com/fatboys.bg/",
+            "cuisine": "burger",
+            "indoor_seating": "yes",
+            "name": "Fat Boys Food Co.",
+            "opening_hours": "Mo-Th 12:00-23:00; Fr-Sa 12:00-00:00; Su 12:00-23:00",
+            "outdoor_seating": "yes",
+            "smoking": "no"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "id": 7251403387,
+        "lat": 44.803413,
+        "lon": 20.3918779,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:postcode": "11070",
+            "addr:street": "Јурија Гагарина",
+            "alt_name": "Kentucky Fried Chicken",
+            "amenity": "fast_food",
+            "brand": "KFC",
+            "brand:wikidata": "Q524757",
+            "brand:wikipedia": "sr:Кеј-Еф-Си",
+            "cuisine": "chicken",
+            "drive_through": "yes",
+            "name": "KFC",
+            "opening_hours": "Mo-Su 08:00-24:00",
+            "outdoor_seating": "yes",
+            "phone": "+381 64 8730014",
+            "smoking": "outside",
+            "takeaway": "yes",
+            "website": "https://www.kfc.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "id": 7251403388,
+        "lat": 44.7845557,
+        "lon": 20.4130951,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:postcode": "11000",
+            "addr:street": "Радничка",
+            "alt_name": "Kentucky Fried Chicken",
+            "amenity": "fast_food",
+            "brand": "KFC",
+            "brand:wikidata": "Q524757",
+            "brand:wikipedia": "sr:Кеј-Еф-Си",
+            "cuisine": "chicken",
+            "drive_through": "yes",
+            "name": "KFC",
+            "opening_hours": "Mo-Su 09:00-00:00",
+            "opening_hours:drive_through": "08:00-01:00",
+            "outdoor_seating": "yes",
+            "phone": "+381 64 8730026",
+            "smoking": "outside",
+            "takeaway": "yes",
+            "website": "https://www.kfc.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 7298614857,
+        "lat": 44.8050823,
+        "lon": 20.4043262,
+        "tags": {
+            "amenity": "fast_food",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "brand:wikipedia": "sr:Мекдоналдс",
+            "check_date": "2025-12-12",
+            "cuisine": "burger",
+            "drive_through": "no",
+            "level": "2",
+            "name": "McDonald's",
+            "takeaway": "yes",
+            "website": "https://www.mcdonalds.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 7298652388,
+        "lat": 44.7870624,
+        "lon": 20.4182542,
+        "tags": {
+            "addr:housenumber": "9",
+            "addr:street": "Радничка",
+            "amenity": "fast_food",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "brand:wikipedia": "sr:Мекдоналдс",
+            "check_date": "2024-10-06",
+            "cuisine": "burger",
+            "drive_through": "no",
+            "level": "3",
+            "name": "McDonald's",
+            "name:en": "McDonald's",
+            "opening_hours": "Mo-Su 10:00-22:00",
+            "payment:mastercard": "yes",
+            "payment:visa": "yes",
+            "smoking": "no",
+            "takeaway": "yes",
+            "website": "https://www.mcdonalds.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 7298678829,
+        "lat": 44.8171406,
+        "lon": 20.5089843,
+        "tags": {
+            "amenity": "fast_food",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "brand:wikipedia": "en:McDonald's",
+            "cuisine": "burger",
+            "drive_through": "no",
+            "level": "2",
+            "name": "McDonald's",
+            "smoking": "no",
+            "takeaway": "yes",
+            "website": "https://www.mcdonalds.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 7577431072,
+        "lat": 44.8199128,
+        "lon": 20.4546062,
+        "tags": {
+            "addr:housenumber": "54",
+            "addr:street": "Кнеза Михаила",
+            "amenity": "fast_food",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "check_date": "2024-09-22",
+            "cuisine": "burger",
+            "drive_through": "no",
+            "level": "2",
+            "name": "McDonald's",
+            "name:en": "McDonald's",
+            "opening_hours": "Mo-Su 10:00-22:00",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "smoking": "no",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 7578244877,
+        "lat": 44.8137018,
+        "lon": 20.3930015,
+        "tags": {
+            "addr:housenumber": "179",
+            "addr:street": "Тошин бунар",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "delivery": "yes",
+            "email": "info@restoranbelareka.rs",
+            "int_name": "Bela reka",
+            "name": "Бела река",
+            "name:sr": "Бела река",
+            "name:sr-Latn": "Bela reka",
+            "phone": "+381 11 6555097",
+            "website": "https://www.restoranbelareka.rs/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 7727418370,
+        "lat": 44.8046951,
+        "lon": 20.3964934,
+        "tags": {
+            "addr:housenumber": "24",
+            "addr:street": "Јурија Гагарина",
+            "amenity": "restaurant",
+            "check_date": "2026-05-15",
+            "cuisine": "regional",
+            "name": "Henex",
+            "name:sr": "Хенекс"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 7728556440,
+        "lat": 44.8050574,
+        "lon": 20.4019721,
+        "tags": {
+            "addr:floor": "G",
+            "addr:housenumber": "20d",
+            "addr:street": "Јурија Гагарина",
+            "amenity": "restaurant",
+            "check_date": "2025-11-11",
+            "cuisine": "regional",
+            "email": "rezervacije2@koddedastavre.rs",
+            "int_name": "Kod deda Stavre",
+            "level": "0",
+            "name": "Код деда Ставре",
+            "name:sr": "Код деда Ставре",
+            "name:sr-Latn": "Kod deda Stavre",
+            "opening_hours": "08:00-23:00",
+            "phone": "+381 69 1111005",
+            "website": "https://koddedastavre.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 7750100850,
+        "lat": 44.8392936,
+        "lon": 20.4157032,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "burger",
+            "name": "Drvce"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "grill",
+        "id": 7824247351,
+        "lat": 44.8014801,
+        "lon": 20.4923088,
+        "tags": {
+            "amenity": "fast_food",
+            "contact:facebook": "https://www.facebook.com/Stefan-Kalimero-1307836992659825/",
+            "cuisine": "grill",
+            "drive_through": "no",
+            "name": "Kalimero",
+            "opening_hours": "Mo-Su 09:00-23:00",
+            "phone": "+381 61 6146259"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "local",
+        "id": 7838397966,
+        "lat": 44.802014,
+        "lon": 20.4876186,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "local",
+            "int_name": "Mali Djeram",
+            "name": "Мали Ђерам",
+            "name:sr": "Мали Ђерам",
+            "name:sr-Latn": "Mali Đeram",
+            "phone": "+381 11 4238646",
+            "website": "https://stari-hrast.business.site/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 7981429397,
+        "lat": 44.7925443,
+        "lon": 20.5077156,
+        "tags": {
+            "amenity": "restaurant",
+            "check_date": "2026-06-07",
+            "contact:facebook": "https://www.facebook.com/restoranizavicaj/",
+            "contact:instagram": "https://www.instagram.com/restoranizavicaj/",
+            "contact:tiktok": "https://www.tiktok.com/@restorani_zavicaj",
+            "cuisine": "regional",
+            "email": "info@zavicaj.rs",
+            "int_name": "Zavicaj",
+            "name": "Zavičaj",
+            "name:sr": "Завичај",
+            "name:sr-Latn": "Zavičaj",
+            "opening_hours": "Mo-Su 09:00-23:00",
+            "phone": "+381 60 5220000",
+            "website": "https://www.restoranzavicaj.rs"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 8243520822,
+        "lat": 44.7969053,
+        "lon": 20.4887879,
+        "tags": {
+            "addr:housenumber": "1",
+            "addr:street": "Дравска",
+            "amenity": "fast_food",
+            "check_date": "2025-09-10",
+            "contact:facebook": "https://www.facebook.com/sweetcollina.rs/",
+            "contact:instagram": "https://www.instagram.com/collina_burger/",
+            "cuisine": "burger",
+            "email": "office@collina.rs",
+            "indoor_seating": "yes",
+            "name": "Collina - Burgers & Pancakes",
+            "outdoor_seating": "no",
+            "phone": "+381 11 3548445",
+            "website": "https://collina.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 8254022610,
+        "lat": 44.7865202,
+        "lon": 20.5028208,
+        "tags": {
+            "air_conditioning": "yes",
+            "amenity": "fast_food",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "brand:wikipedia": "en:McDonald's",
+            "cuisine": "burger",
+            "diet:vegan": "yes",
+            "diet:vegetarian": "yes",
+            "indoor_seating": "yes",
+            "level": "2",
+            "name": "McDonald's",
+            "opening_hours": "Mo-Su 10:00-22:00",
+            "outdoor_seating": "no",
+            "smoking": "no",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "id": 8254022611,
+        "lat": 44.7865889,
+        "lon": 20.5029591,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "141",
+            "addr:postcode": "11000",
+            "addr:street": "Војислава Илића",
+            "air_conditioning": "yes",
+            "alt_name": "Kentucky Fried Chicken",
+            "amenity": "fast_food",
+            "brand": "KFC",
+            "brand:wikidata": "Q524757",
+            "brand:wikipedia": "en:KFC",
+            "cuisine": "chicken",
+            "diet:vegan": "yes",
+            "diet:vegetarian": "yes",
+            "indoor_seating": "yes",
+            "level": "2",
+            "name": "KFC",
+            "opening_hours": "Mo-Su 10:00-22:00",
+            "outdoor_seating": "no",
+            "smoking": "no",
+            "takeaway": "yes",
+            "website": "https://kfc.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 8367359504,
+        "lat": 44.7527491,
+        "lon": 20.454486,
+        "tags": {
+            "addr:housenumber": "7A",
+            "addr:street": "Канарево брдо",
+            "amenity": "fast_food",
+            "cuisine": "regional",
+            "name": "Bosta"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "balkan",
+        "id": 8889738720,
+        "lat": 44.8160576,
+        "lon": 20.4765414,
+        "tags": {
+            "addr:housenumber": "36",
+            "addr:street": "Цвијићева",
+            "amenity": "fast_food",
+            "check_date:opening_hours": "2023-12-22",
+            "cuisine": "balkan",
+            "name": "Prava Pljeskavica",
+            "opening_hours": "Mo-Fr 10:00-22:00, Sa 12:00-22:00",
+            "phone": "064 1985195"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "barbecue",
+        "id": 9091313624,
+        "lat": 44.7628332,
+        "lon": 20.4904066,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "barbecue",
+            "name": "Kod pobratima",
+            "opening_hours": "Mo-Su 08:00-23:00"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "barbecue",
+        "id": 9124055811,
+        "lat": 44.8131342,
+        "lon": 20.5123711,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "43A",
+            "addr:postcode": "11060",
+            "addr:street": "Маријане Грегоран",
+            "amenity": "fast_food",
+            "cuisine": "barbecue",
+            "drive_through": "no",
+            "int_name": "Nasa Prica",
+            "name": "Наша Прича",
+            "name:sr": "Наша Прича",
+            "name:sr-Latn": "Naša Priča",
+            "opening_hours": "Su-Th 09:00-24:00,Fr-Sa 09:00-02:00",
+            "phone": "+381 60 689 6000"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "id": 9124993212,
+        "lat": 44.8304914,
+        "lon": 20.4088174,
+        "tags": {
+            "addr:city": "Нови Београд",
+            "addr:housenumber": "34a",
+            "addr:postcode": "11070",
+            "addr:street": "Булевар маршала Толбухина",
+            "amenity": "restaurant",
+            "check_date": "2023-10-15",
+            "cuisine": "greek",
+            "int_name": "Meze",
+            "name": "Мезе",
+            "name:sr": "Мезе",
+            "name:sr-Latn": "Meze",
+            "opening_hours": "Tu-Su 13:00-21:00",
+            "outdoor_seating": "yes",
+            "smoking": "separated",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 9240223647,
+        "lat": 44.8076013,
+        "lon": 20.5020171,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "email": "office@restoranpahuljica.com",
+            "int_name": "Pahuljica",
+            "name": "Пахуљица",
+            "name:sr": "Пахуљица",
+            "name:sr-Latn": "Pahuljica",
+            "phone": "011/2088-431",
+            "smoking": "separated",
+            "website": "http://www.restoranpahuljica.rs/",
+            "wheelchair": "limited"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 9240223672,
+        "lat": 44.8072245,
+        "lon": 20.4986773,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "18",
+            "addr:street": "Панте Срећковића",
+            "amenity": "restaurant",
+            "capacity": "120",
+            "cuisine": "regional",
+            "name": "Нова тиха ноћ",
+            "name:en": "Nova tiha noć",
+            "name:sr": "Нова тиха ноћ",
+            "name:sr-Latn": "Nova tiha noć",
+            "opening_hours": "09:00-23:00",
+            "smoking": "separated",
+            "wheelchair": "no",
+            "wikidata": "Q110046258",
+            "wikipedia": "sr:Ресторан Нова тиха ноћ"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "barbecue",
+        "id": 9270515212,
+        "lat": 44.8309852,
+        "lon": 20.4181734,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "barbecue",
+            "int_name": "Cirino drvce",
+            "name": "Ћирино дрвце",
+            "name:sr": "Ћирино дрвце",
+            "name:sr-Latn": "Ćirino drvce",
+            "opening_hours": "Mo-Th 06:00-24:00; Fr-Sa 06:00-01:00"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "traditional",
+        "id": 9349802325,
+        "lat": 44.783175,
+        "lon": 20.5147209,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "traditional",
+            "int_name": "Miris Jablana",
+            "name": "Мирис Јаблана",
+            "name:sr": "Мирис Јаблана",
+            "name:sr-Latn": "Miris Jablana"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 9554229376,
+        "lat": 44.7714896,
+        "lon": 20.4935384,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "57K",
+            "addr:street": "Заплањска",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Tradicija",
+            "name": "Традиција",
+            "name:sr": "Традиција",
+            "name:sr-Latn": "Tradicija"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 9557198142,
+        "lat": 44.7440557,
+        "lon": 20.4478084,
+        "tags": {
+            "addr:housenumber": "28",
+            "addr:street": "Мишка Крањца",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Kafana Masta",
+            "name": "Кафана Машта",
+            "name:sr": "Кафана Машта",
+            "name:sr-Latn": "Kafana Mašta"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "id": 9571106422,
+        "lat": 44.8157985,
+        "lon": 20.4556833,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "chicken",
+            "drive_through": "no",
+            "indoor_seating": "yes",
+            "int_name": "Curka Palasmarsa",
+            "name": "Ћурка Паласмарса",
+            "name:sr": "Ћурка Паласмарса",
+            "name:sr-Latn": "Ćurka Palasmarsa",
+            "opening_hours": "Mo-Fr 09:00-22:00; Sa 10:00-17:30",
+            "outdoor_seating": "no",
+            "phone": "+381 60 7252724"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "id": 9844279671,
+        "lat": 44.8204703,
+        "lon": 20.4626324,
+        "tags": {
+            "addr:housenumber": "26",
+            "addr:street": "Кнегиње Љубице",
+            "amenity": "restaurant",
+            "check_date": "2022-06-24",
+            "cuisine": "burger",
+            "int_name": "Manciz",
+            "name": "Манчиз",
+            "name:sr": "Манчиз",
+            "name:sr-Latn": "Mančiz",
+            "smoking": "outside"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "greek",
+        "id": 9889998994,
+        "lat": 44.7867395,
+        "lon": 20.5032742,
+        "tags": {
+            "air_conditioning": "yes",
+            "amenity": "fast_food",
+            "check_date:opening_hours": "2024-08-06",
+            "cuisine": "greek",
+            "diet:vegetarian": "no",
+            "drive_through": "no",
+            "indoor_seating": "yes",
+            "level": "2",
+            "name": "Richard Gyros",
+            "opening_hours": "Mo-Su 10:00-22:00",
+            "outdoor_seating": "no",
+            "smoking": "no"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 9917465863,
+        "lat": 44.8063974,
+        "lon": 20.4673786,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "indoor_seating": "yes",
+            "int_name": "Stara vremena",
+            "name": "Стара времена",
+            "name:sr-Latn": "Stara vremena",
+            "opening_hours": "Mo-Th 13:00-23:00, Fr 13:00-01:00, Sa 14:00-01:00",
+            "outdoor_seating": "yes",
+            "wheelchair": "no"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 9922158698,
+        "lat": 44.8148566,
+        "lon": 20.4750644,
+        "tags": {
+            "addr:housenumber": "50",
+            "addr:street": "Таковска",
+            "amenity": "fast_food",
+            "contact:instagram": "https://www.instagram.com/smashburgersbg/",
+            "cuisine": "burger",
+            "drive_through": "no",
+            "name": "Smash Burgers",
+            "opening_hours": "Mo-Su 11:00-23:00",
+            "phone": "+381 60 5555556",
+            "smoking": "no",
+            "takeaway": "yes",
+            "website": "https://smashburgers.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 9943091619,
+        "lat": 44.8177954,
+        "lon": 20.4653919,
+        "tags": {
+            "amenity": "fast_food",
+            "check_date": "2026-01-14",
+            "cuisine": "burger",
+            "int_name": "Z burger",
+            "name": "Ж burger",
+            "name:sr": "Ж бургер",
+            "name:sr-Latn": "Ž burger",
+            "takeaway": "yes",
+            "wheelchair": "no"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "greek",
+        "id": 10079843081,
+        "lat": 44.8051535,
+        "lon": 20.4043162,
+        "tags": {
+            "amenity": "fast_food",
+            "check_date": "2025-12-12",
+            "cuisine": "greek",
+            "drive_through": "no",
+            "level": "2",
+            "name": "Richard gyros"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 10079843083,
+        "lat": 44.8052702,
+        "lon": 20.4043134,
+        "tags": {
+            "amenity": "fast_food",
+            "check_date": "2025-12-12",
+            "cuisine": "regional",
+            "drive_through": "no",
+            "level": "2",
+            "name": "Obrock",
+            "payment:cash": "yes",
+            "payment:mastercard": "yes",
+            "payment:unionpay": "yes",
+            "payment:visa": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "id": 10079843085,
+        "lat": 44.8054472,
+        "lon": 20.4045072,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "16",
+            "addr:postcode": "11070",
+            "addr:street": "Јурија Гагарина",
+            "alt_name": "Kentucky Fried Chicken",
+            "amenity": "fast_food",
+            "brand": "KFC",
+            "brand:wikidata": "Q524757",
+            "check_date": "2025-12-12",
+            "cuisine": "chicken",
+            "drive_through": "no",
+            "level": "2",
+            "name": "KFC",
+            "opening_hours": "Mo-Su 10:00-22:00",
+            "phone": "+381 64 8730004",
+            "smoking": "no",
+            "takeaway": "yes",
+            "website": "https://kfc.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 10113904145,
+        "lat": 44.8154902,
+        "lon": 20.4365234,
+        "tags": {
+            "amenity": "fast_food",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "brand:wikipedia": "en:McDonald's",
+            "cuisine": "burger",
+            "level": "2",
+            "name": "McDonald's",
+            "opening_hours": "Mo-Su 10:00-22:30",
+            "smoking": "no",
+            "takeaway": "yes",
+            "toilets:wheelchair": "yes",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 10113923111,
+        "lat": 44.8153419,
+        "lon": 20.4368518,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "regional",
+            "diet:vegetarian": "yes",
+            "level": "2",
+            "name": "Foody",
+            "opening_hours": "Mo-Su 10:00-22:00"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "shawarma",
+        "id": 10120170896,
+        "lat": 44.814159,
+        "lon": 20.4557448,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "shawarma",
+            "name": "Šaurmović"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 10135377837,
+        "lat": 44.8148827,
+        "lon": 20.463513,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "regional",
+            "indoor_seating": "yes",
+            "int_name": "Moja pekarica & Moja kuhinjica",
+            "level": "0",
+            "name": "Моја пекарица & Моја кухињица",
+            "outdoor_seating": "yes",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "balkan",
+        "id": 10149307910,
+        "lat": 44.7911444,
+        "lon": 20.4976346,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "balkan",
+            "indoor_seating": "yes",
+            "name": "Paprica Food",
+            "outdoor_seating": "no"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 10171290686,
+        "lat": 44.8016385,
+        "lon": 20.4528775,
+        "tags": {
+            "amenity": "fast_food",
+            "check_date:opening_hours": "2026-06-07",
+            "cuisine": "regional",
+            "indoor_seating": "no",
+            "level": "0",
+            "name": "Le Burger",
+            "opening_hours": "Mo-Sa 09:00-21:30; PH off",
+            "outdoor_seating": "no",
+            "takeaway": "yes",
+            "wheelchair": "no"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "greek",
+        "id": 10177808917,
+        "lat": 44.8024214,
+        "lon": 20.4899011,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "78",
+            "addr:postcode": "11000",
+            "addr:street": "Димитрија Туцовића",
+            "amenity": "fast_food",
+            "cuisine": "greek",
+            "name": "Gyro Biber",
+            "opening_hours": "Mo-Su 12:00-00:00",
+            "phone": "+381 63 398398"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 10195615833,
+        "lat": 44.8423685,
+        "lon": 20.381275,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Rudopolje",
+            "name": "Рудопоље",
+            "name:sr": "Рудопоље",
+            "name:sr-Latn": "Rudopolje"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 10201877044,
+        "lat": 44.8161237,
+        "lon": 20.4628695,
+        "tags": {
+            "addr:housenumber": "6",
+            "addr:street": "Скадарска",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Herceg Novi",
+            "name": "Херцег Нови",
+            "name:sr": "Херцег Нови",
+            "name:sr-Latn": "Herceg Novi",
+            "opening_hours": "Mo-Sa 09:00-23:00; Su 13:00-23:00",
+            "phone": "+381 11 3221210"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 10229384722,
+        "lat": 44.8241231,
+        "lon": 20.471587,
+        "tags": {
+            "addr:housenumber": "27a",
+            "addr:street": "Жоржа Клемансоа",
+            "amenity": "restaurant",
+            "check_date": "2024-05-11",
+            "cuisine": "regional",
+            "int_name": "Kolubara",
+            "level": "0",
+            "name": "Колубара",
+            "opening_hours": "Mo-Tu 10:00-22:00; We-Sa 10:00-01:00; Su 10:00-23:00"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 10235935718,
+        "lat": 44.8073953,
+        "lon": 20.4814083,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "name": "Uprava 1927",
+            "opening_hours": "Mo-Su 08:00-00:00"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 10579708680,
+        "lat": 44.8154225,
+        "lon": 20.464056,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Grmec",
+            "level": "0",
+            "name": "Грмеч",
+            "smoking": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 10702451579,
+        "lat": 44.803664,
+        "lon": 20.4452972,
+        "tags": {
+            "amenity": "fast_food",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "check_date": "2022-07-17",
+            "cuisine": "burger",
+            "drive_through": "no",
+            "highchair": "yes",
+            "indoor": "room",
+            "level": "2",
+            "name": "McDonald's",
+            "opening_hours": "Mo-Su 10:00-22:00",
+            "phone": "+381 648256877",
+            "smoking": "no",
+            "takeaway": "yes",
+            "website": "https://www.galerijabelgrade.com/sr/dine/mcdonalds"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "id": 10840073402,
+        "lat": 44.8004908,
+        "lon": 20.4826591,
+        "tags": {
+            "amenity": "restaurant",
+            "check_date": "2024-06-06",
+            "cuisine": "seafood",
+            "level": "0",
+            "name": "Bevanda",
+            "outdoor_seating": "yes",
+            "smoking": "yes",
+            "wheelchair": "no"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "id": 10926726481,
+        "lat": 44.8430255,
+        "lon": 20.4045161,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "chicken",
+            "name": "Royal Chicken",
+            "opening_hours": "Mo-Sa 9:30 - 23:00, Su 12:00 - 20:00"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 10951507509,
+        "lat": 44.8174426,
+        "lon": 20.4565806,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "burger",
+            "name": "Perlo's"
+        }
+    },
+    {
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "id": 10956737787,
+        "lat": 44.81437,
+        "lon": 20.4691376,
+        "tags": {
+            "addr:housenumber": "25a",
+            "addr:street": "Палмотићева",
+            "amenity": "cafe",
+            "check_date": "2025-12-14",
+            "cuisine": "regional",
+            "name": "Beverly cafe",
+            "opening_hours": "Mo-Su 08:00-00:00",
+            "outdoor_seating": "yes"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 10963646264,
+        "lat": 44.8160151,
+        "lon": 20.4508994,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "33",
+            "addr:postcode": "11000",
+            "addr:street": "Карађорђева",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "internet_access": "wlan",
+            "internet_access:fee": "customers",
+            "name": "Crni Đorđe",
+            "opening_hours": "Mo-Su 09:00-23:00",
+            "outdoor_seating": "yes",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "phone": "+351 63306013",
+            "smoking": "outside",
+            "website": "https://crnidjordje.rs",
+            "wheelchair": "no"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 11012826106,
+        "lat": 44.7763749,
+        "lon": 20.4135565,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "burger",
+            "drive_through": "no",
+            "name": "Two Guys Smash Burger",
+            "opening_hours": "Su-Th 12:00-00:00; Fr-Sa 12:00-03:00",
+            "phone": "+381 69 3336071",
+            "smoking": "outside",
+            "website": "https://tgburgers.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "balkan",
+        "id": 11012858205,
+        "lat": 44.7484644,
+        "lon": 20.4313742,
+        "tags": {
+            "addr:housenumber": "31b",
+            "addr:street": "Кнеза Вишеслава",
+            "air_conditioning": "yes",
+            "amenity": "fast_food",
+            "cuisine": "balkan",
+            "drive_through": "no",
+            "name": "Stepin Vajat Vidikovac",
+            "opening_hours": "24/7",
+            "payment:credit_cards": "no",
+            "payment:debit_cards": "no",
+            "phone": "+381 66 8822828",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 11013045905,
+        "lat": 44.7491363,
+        "lon": 20.4285403,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "burger",
+            "name": "Burger Hub",
+            "opening_hours": "Mo-Sa 13:00-23:00",
+            "phone": "+381116704413"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "balkan",
+        "id": 11035210605,
+        "lat": 44.7271936,
+        "lon": 20.4250356,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "balkan",
+            "name": "Slast i Mast",
+            "opening_hours": "Mo-Su 08:00-23:00",
+            "phone": "+381 64 1369024",
+            "website": "https://www.slastimast.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "balkan",
+        "id": 11043509005,
+        "lat": 44.7595944,
+        "lon": 20.4178237,
+        "tags": {
+            "addr:housenumber": "3",
+            "addr:postcode": "11030",
+            "addr:street": "Спасовданска",
+            "amenity": "fast_food",
+            "cuisine": "balkan",
+            "name": "Код Иве",
+            "name:en": "Kod Ive",
+            "opening_hours": "Mo-Sa 09:00-01:00",
+            "phone": "+381 63 666610",
+            "website": "http://www.kodive.rs",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 11066992633,
+        "lat": 44.7843252,
+        "lon": 20.4103588,
+        "tags": {
+            "amenity": "fast_food",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "cuisine": "burger",
+            "drive_through": "yes",
+            "name": "McDonald's",
+            "opening_hours": "07:00-24:00",
+            "smoking": "outside",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "домаћа",
+        "id": 11101896768,
+        "lat": 44.7752513,
+        "lon": 20.4571183,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "31",
+            "addr:street": "Булевар кнеза Александра Карађорђевића",
+            "amenity": "restaurant",
+            "contact:instagram": "restoran_kraljeva_basta",
+            "cuisine": "домаћа",
+            "name": "Kraljeva bašta",
+            "name:en": "Kraljeva basta",
+            "name:sr": "Краљева башта",
+            "name:sr-Latn": "Kraljeva bašta",
+            "opening_hours": "Mo-Su 08:00-24:00",
+            "outdoor_seating": "yes",
+            "phone": "+381640490490",
+            "ref:RS:kucni_broj": "3207552"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "id": 11147649805,
+        "lat": 44.8478694,
+        "lon": 20.4133324,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "49",
+            "addr:street": "Кеј ослобођења",
+            "amenity": "restaurant",
+            "contact:facebook": "torogrill",
+            "contact:instagram": "torogrill",
+            "contact:mobile": "+381 60 725 77 88‬",
+            "cuisine": "steak_house",
+            "email": "office@torogrill.rs",
+            "name": "Toro Grill",
+            "opening_hours": "Mo-Su 13:00-23:00",
+            "phone": "+381 11 2199 462",
+            "website": "https://torogrill.rs",
+            "website:menu": "https://torogrill.rs/jelovnik"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 11147652405,
+        "lat": 44.8444167,
+        "lon": 20.4152917,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "name:en": "Ciribu Ciriba"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 11170416523,
+        "lat": 44.8011302,
+        "lon": 20.4727759,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "70",
+            "addr:postcode": "11000",
+            "addr:street": "Његошева",
+            "amenity": "restaurant",
+            "check_date": "2023-12-23",
+            "cuisine": "regional",
+            "indoor_seating": "yes",
+            "name": "Baba Višnja",
+            "name:sr": "Баба Вишња",
+            "name:sr-Latn": "Baba Višnja",
+            "opening_hours": "Mo-Tu 08:00-00:00; Fr-Sa 08:00-01:00; Su 08:00-00:00",
+            "outdoor_seating": "yes",
+            "payment:cash": "yes",
+            "payment:contactless": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "phone": "+381 64 8652063",
+            "smoking": "yes",
+            "website": "https://babavisnja.rs/",
+            "website:booking": "https://babavisnja.rs/rezervacije/",
+            "website:menu": "https://babavisnja.rs/meni/",
+            "wheelchair": "no"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 11186201606,
+        "lat": 44.7748816,
+        "lon": 20.4131853,
+        "tags": {
+            "addr:street": "Кијевска",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Djurdjev grad",
+            "name": "Ђурђев град",
+            "name:sr": "Ђурђев град",
+            "name:sr-Latn": "Đurđev grad",
+            "opening_hours": "Mo-Su 07:00-22:00",
+            "outdoor_seating": "yes",
+            "phone": "+381 11 3556545"
+        }
+    },
+    {
+        "amenity": "cafe",
+        "cuisine": "balkan",
+        "id": 11277342972,
+        "lat": 44.8016753,
+        "lon": 20.3869695,
+        "tags": {
+            "amenity": "cafe",
+            "cuisine": "balkan",
+            "name": "Маркиз",
+            "name:en": "Markiz"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 11308744700,
+        "lat": 44.8128243,
+        "lon": 20.3958183,
+        "tags": {
+            "amenity": "fast_food",
+            "check_date": "2026-05-14",
+            "cuisine": "burger",
+            "name": "K burger",
+            "opening_hours": "Mo-Fr 10:00-17:00"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "balkan",
+        "id": 11331990909,
+        "lat": 44.8452986,
+        "lon": 20.4121564,
+        "tags": {
+            "addr:city": "Земун",
+            "addr:housenumber": "2",
+            "addr:postcode": "11080",
+            "addr:street": "Лагумска",
+            "amenity": "restaurant",
+            "cuisine": "balkan",
+            "int_name": "Sarajevski cevap Zemun",
+            "internet_access": "wlan",
+            "name": "Сарајевски ћевап Земун",
+            "name:ru": "Сараевский чевап",
+            "name:sr": "Сарајевски ћевап Земун",
+            "name:sr-Latn": "Sarajevski ćevap Zemun"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 11336463578,
+        "lat": 44.8448288,
+        "lon": 20.4143317,
+        "tags": {
+            "amenity": "restaurant",
+            "contact:instagram": "https://www.instagram.com/koordinatastreet",
+            "cuisine": "regional",
+            "int_name": "Koordinata",
+            "name": "Координата",
+            "name:sr": "Координата",
+            "name:sr-Latn": "Koordinata",
+            "opening_hours": "We-Fr 14:00-22:00, Sa 12:00-22:00, Su 12:00-20:00",
+            "phone": "+381 64 5939352"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 11446255950,
+        "lat": 44.8034661,
+        "lon": 20.4689197,
+        "tags": {
+            "addr:housenumber": "28",
+            "addr:street": "Његошева",
+            "amenity": "fast_food",
+            "check_date": "2023-12-23",
+            "cuisine": "burger",
+            "indoor_seating": "yes",
+            "name": "Take a Senfie",
+            "outdoor_seating": "yes",
+            "payment:cash": "yes",
+            "payment:contactless": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "wheelchair": "no"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "id": 11523651636,
+        "lat": 44.8142668,
+        "lon": 20.4564606,
+        "tags": {
+            "amenity": "fast_food",
+            "check_date": "2026-02-12",
+            "cuisine": "sandwich",
+            "name": "Bege"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 11581874760,
+        "lat": 44.8127635,
+        "lon": 20.429484,
+        "tags": {
+            "addr:housenumber": "12v",
+            "addr:street": "Булевар Зорана Ђинђића",
+            "amenity": "fast_food",
+            "check_date": "2025-02-16",
+            "cuisine": "regional",
+            "diet:vegetarian": "no",
+            "drive_through": "no",
+            "name": "Havarija",
+            "opening_hours": "Mo-Fr 09:00-04:00, Sa,Su 11:00-04:00"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 11581875752,
+        "lat": 44.8128946,
+        "lon": 20.4291953,
+        "tags": {
+            "addr:housenumber": "12d",
+            "addr:street": "Булевар Зорана Ђинђића",
+            "amenity": "fast_food",
+            "check_date": "2025-02-16",
+            "cuisine": "burger",
+            "diet:vegetarian": "no",
+            "drive_through": "no",
+            "name": "Dirty smash burger",
+            "opening_hours": "Mo-Tu 14:00-22:00; We-Su 11:00-23:00",
+            "operator": "Dirty Smash doo"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "id": 11618002838,
+        "lat": 44.8054164,
+        "lon": 20.4508554,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "burger",
+            "indoor_seating": "yes",
+            "level": "0",
+            "name": "Smasher & Co",
+            "opening_hours": "Mo-Su 08:00-23:00",
+            "outdoor_seating": "yes",
+            "wheelchair": "no"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 11634119230,
+        "lat": 44.8216899,
+        "lon": 20.4100129,
+        "tags": {
+            "addr:housenumber": "18b",
+            "addr:street": "Омладинских бригада",
+            "amenity": "fast_food",
+            "contact:instagram": "https://www.instagram.com/smashburgersbg/",
+            "cuisine": "burger",
+            "delivery": "yes",
+            "diet:vegetarian": "no",
+            "drive_through": "no",
+            "name": "Smash Burgers",
+            "opening_hours": "11:00-23:00",
+            "outdoor_seating": "yes",
+            "phone": "+381 60 5555560",
+            "smoking": "outside",
+            "survey:date": "2024-02-17",
+            "takeaway": "yes",
+            "website": "https://www.smashburgers.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "russian",
+        "id": 11677783753,
+        "lat": 44.8276544,
+        "lon": 20.4536781,
+        "tags": {
+            "amenity": "fast_food",
+            "check_date": "2026-03-23",
+            "contact:telegram": "https://t.me/BerezkaBeograd2025",
+            "cuisine": "russian",
+            "indoor_seating": "yes",
+            "int_name": "Berezka",
+            "name": "Березка",
+            "name:ru": "Берёзка",
+            "name:sr": "Березка",
+            "name:sr-Latn": "Berezka",
+            "opening_hours": "08:00-22:00",
+            "outdoor_seating": "yes",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "shop": "convenience",
+            "smoking": "outside",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "barbecue",
+        "id": 11698466986,
+        "lat": 44.782669,
+        "lon": 20.416422,
+        "tags": {
+            "addr:floor": "G",
+            "addr:housenumber": "1",
+            "addr:street": "Шумадијски трг",
+            "amenity": "restaurant",
+            "check_date": "2025-03-30",
+            "cuisine": "barbecue",
+            "level": "0",
+            "name": "Walter",
+            "name:sr": "Валтер",
+            "name:sr-Latn": "Walter",
+            "opening_hours": "08:00-24:00",
+            "smoking": "yes",
+            "website": "https://walter.rs"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "balkan",
+        "id": 11736882968,
+        "lat": 44.7951952,
+        "lon": 20.4780914,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "53",
+            "addr:postcode": "11000",
+            "addr:street": "Максима Горког",
+            "amenity": "restaurant",
+            "cuisine": "balkan",
+            "indoor_seating": "yes",
+            "int_name": "Stara Kuca",
+            "name": "Стара Кућа",
+            "opening_hours": "Mo-Sa 12:00-23:00; Su 12:00-21:00",
+            "outdoor_seating": "no",
+            "phone": "+381 64 4747460",
+            "wheelchair": "limited"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "fish",
+        "id": 11799658673,
+        "lat": 44.8014724,
+        "lon": 20.4843889,
+        "tags": {
+            "amenity": "fast_food",
+            "check_date": "2026-05-21",
+            "check_date:opening_hours": "2026-05-21",
+            "cuisine": "fish",
+            "name": "Fish House",
+            "opening_hours": "Mo-Fr 10:00-17:00; Sa 10:00-16:00; Su off"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 11805272139,
+        "lat": 44.7986197,
+        "lon": 20.4883294,
+        "tags": {
+            "amenity": "fast_food",
+            "check_date": "2024-04-09",
+            "cuisine": "burger",
+            "name": "Burger Plus"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 11812618118,
+        "lat": 44.5452882,
+        "lon": 20.3010555,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Kod Brace",
+            "name": "Код Браце",
+            "name:sr": "Код Браце",
+            "name:sr-Latn": "Kod Brace",
+            "opening_hours": "Mo-Su 06:00-22:00",
+            "phone": "+381 11 8141295"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "european",
+        "id": 11889717538,
+        "lat": 44.8001374,
+        "lon": 20.4518525,
+        "tags": {
+            "addr:housenumber": "87",
+            "addr:street": "Сарајевска",
+            "amenity": "restaurant",
+            "cuisine": "european",
+            "indoor_seating": "yes",
+            "name": "Gina Bistro",
+            "opening_hours": "Mo-Sa 08:00-22:00",
+            "outdoor_seating": "yes",
+            "phone": "+381628812006",
+            "website": "https://ginabistro.com/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "barbecue",
+        "id": 11897531774,
+        "lat": 44.8248606,
+        "lon": 20.4711439,
+        "tags": {
+            "amenity": "restaurant",
+            "check_date": "2024-05-11",
+            "contact:instagram": "https://www.instagram.com/insmokewetrustbbq/",
+            "cuisine": "barbecue",
+            "name": "In Smoke We Trust",
+            "opening_hours": "Tu-Th,Su 12:00-23:00; Fr-Sa 13:00-23:00"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "id": 11948280239,
+        "lat": 44.8052975,
+        "lon": 20.4095665,
+        "tags": {
+            "amenity": "restaurant",
+            "check_date": "2025-04-14",
+            "check_date:opening_hours": "2025-04-14",
+            "cuisine": "greek",
+            "level": "0",
+            "name": "Gyropolis",
+            "name:sr": "Гирополис",
+            "opening_hours": "Mo-Fr 10:00-22:30; Sa 11:00-22:30; Su 12:00-22:00",
+            "phone": "+381 69 568 4186",
+            "website": "https://www.facebook.com/BGyropolis/",
+            "wheelchair": "no"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "id": 12037933684,
+        "lat": 44.8078296,
+        "lon": 20.458122,
+        "tags": {
+            "amenity": "restaurant",
+            "check_date": "2026-01-12",
+            "contact:telegram": "https://t.me/kpburgers",
+            "cuisine": "burger",
+            "indoor_seating": "yes",
+            "name": "KP Burgers",
+            "opening_hours": "12:00-22:00",
+            "outdoor_seating": "yes",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "smoking": "outside",
+            "website": "https://kpburgers.rs",
+            "wheelchair": "limited"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 12080311767,
+        "lat": 44.825935,
+        "lon": 20.4623307,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "diet:local": "yes",
+            "int_name": "Bistro 2",
+            "name": "Бистро 2",
+            "name:sr": "Бистро 2",
+            "name:sr-Latn": "Bistro 2",
+            "opening_hours": "Mo-Sa 08:00-22:00",
+            "phone": "+381 11 2186956"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "id": 12089206706,
+        "lat": 44.8155084,
+        "lon": 20.4634684,
+        "tags": {
+            "addr:housenumber": "28",
+            "addr:street": "Македонска",
+            "amenity": "fast_food",
+            "check_date": "2024-08-02",
+            "cuisine": "chicken",
+            "drive_through": "no",
+            "level": "0",
+            "name": "Screaming Chicken",
+            "name:en": "Screaming Chicken",
+            "opening_hours": "Mo-Sa 10:00-22:00; Su off",
+            "wheelchair": "limited"
+        }
+    },
+    {
+        "amenity": "cafe",
+        "cuisine": "russian",
+        "id": 12132401009,
+        "lat": 44.813613,
+        "lon": 20.4534772,
+        "tags": {
+            "amenity": "cafe",
+            "check_date": "2025-12-14",
+            "cuisine": "russian",
+            "name": "URA! Russian dumplings",
+            "opening_hours": "12:00-23:00",
+            "outdoor_seating": "no",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "smoking": "no",
+            "website": "https://peljmeni.rs",
+            "website:menu": "https://peljmeni.rs/menu",
+            "wheelchair": "no"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "id": 12163365427,
+        "lat": 44.8192978,
+        "lon": 20.4542498,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "sandwich",
+            "name": "Fat Fox"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "id": 12163411591,
+        "lat": 44.8193157,
+        "lon": 20.4542141,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "chicken",
+            "name": "Chicken Box"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "balkan",
+        "id": 12168975301,
+        "lat": 44.3929161,
+        "lon": 20.6445961,
+        "tags": {
+            "addr:postcode": "11412",
+            "amenity": "restaurant",
+            "contact:facebook": "100071409669912",
+            "contact:instagram": "destilerijadespot",
+            "cuisine": "balkan",
+            "email": "destilerija.despot@gmail.com",
+            "int_name": "Despot",
+            "name": "Деспот",
+            "opening_hours": "Mo-Su 10:00-22:00",
+            "outdoor_seating": "yes",
+            "phone": "+38169707207",
+            "website": "https://destilerijadespot.rs/",
+            "website:menu": "https://destilerijadespot.rs/cenovnik.pdf"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "barbecue",
+        "id": 12169757053,
+        "lat": 44.7750996,
+        "lon": 20.4087385,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "barbecue",
+            "int_name": "Kod Ace",
+            "name": "Код Аце"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 12175582512,
+        "lat": 44.8138175,
+        "lon": 20.4579725,
+        "tags": {
+            "addr:housenumber": "1",
+            "addr:street": "Краљице Наталије",
+            "amenity": "fast_food",
+            "check_date": "2025-09-28",
+            "contact:instagram": "https://www.instagram.com/two_guys.bg/",
+            "cuisine": "burger",
+            "delivery": "yes",
+            "drive_through": "no",
+            "name": "Two Guys",
+            "opening_hours": "Su-Th 12:00-01:00; Fr-Sa 12:00-03:00",
+            "phone": "+381 69 696958",
+            "website": "https://tgburgers.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "shawarma",
+        "id": 12177069753,
+        "lat": 44.8243252,
+        "lon": 20.4574836,
+        "tags": {
+            "addr:floor": "0",
+            "addr:housenumber": "17",
+            "addr:street": "Риге од Фере",
+            "amenity": "fast_food",
+            "cuisine": "shawarma",
+            "drive_through": "no",
+            "level": "0",
+            "name": "Vraperija",
+            "opening_hours": "Mo-Su 11:00-23:00",
+            "takeaway": "only"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "balkan",
+        "id": 12184491201,
+        "lat": 44.8076284,
+        "lon": 20.5535968,
+        "tags": {
+            "addr:housenumber": "31",
+            "addr:postcode": "11215",
+            "addr:street": "Сланачки пут",
+            "amenity": "restaurant",
+            "cuisine": "balkan",
+            "name": "Etno Bašta",
+            "name:en": "Etno Basta",
+            "outdoor_seating": "no"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 12198599315,
+        "lat": 44.8152387,
+        "lon": 20.4621831,
+        "tags": {
+            "addr:floor": "G",
+            "amenity": "fast_food",
+            "check_date": "2024-09-25",
+            "cuisine": "burger",
+            "delivery": "no",
+            "drive_through": "no",
+            "highchair": "no",
+            "internet_access": "no",
+            "level": "0",
+            "name": "Flat Burger BG",
+            "opening_hours": "Mo-Su 15:00-23:00",
+            "outdoor_seating": "yes",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "smoking": "outdoor",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "id": 12229757806,
+        "lat": 44.7872453,
+        "lon": 20.4181179,
+        "tags": {
+            "alt_name": "Kentucky Fried Chicken",
+            "amenity": "fast_food",
+            "brand": "KFC",
+            "brand:wikidata": "Q524757",
+            "check_date": "2024-10-06",
+            "cuisine": "chicken",
+            "drive_through": "no",
+            "level": "3",
+            "name": "KFC",
+            "opening_hours": "Mo-Su 10:00-22:00",
+            "phone": "+381 64 8730005",
+            "smoking": "no",
+            "takeaway": "yes",
+            "website": "https://kfc.rs/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 12271497094,
+        "lat": 44.7234707,
+        "lon": 20.541978,
+        "tags": {
+            "addr:city": "Бели Поток",
+            "addr:housenumber": "214",
+            "addr:postcode": "11000",
+            "addr:street": "Кружни пут Раковица",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "int_name": "Riz",
+            "internet_access": "wlan",
+            "name": "Риз",
+            "opening_hours": "Mo-Su 06:00-00:00",
+            "ref:RS:kucni_broj": "3234251"
+        }
+    },
+    {
+        "amenity": "bar",
+        "cuisine": "european",
+        "id": 12338983642,
+        "lat": 44.8091744,
+        "lon": 20.4578592,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:country": "RS",
+            "addr:housenumber": "3",
+            "addr:postcode": "11000",
+            "addr:street": "Милована Миловановића",
+            "air_conditioning": "yes",
+            "amenity": "bar",
+            "brewery": "yes;various",
+            "contact:facebook": "https://www.facebook.com/profile.php?id=61567174970720",
+            "cuisine": "european",
+            "description": "INAT BAR – вински бар с српским винима. Аутентичност и квалитет који ће вас одвести на прави пут.",
+            "image": "https://static.tildacdn.com/tild3862-3637-4133-b964-663932663565/Interior3.JPG",
+            "level": "0",
+            "min_age": "18",
+            "name": "INAT BAR",
+            "opening_hours": "Mo-Fr 16:00-00:00; Sa-Su 12:00-00:00",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "payment:mastercard": "yes",
+            "payment:visa": "yes",
+            "smoking": "no",
+            "start_date": "2025-05-22",
+            "website": "https:/inatbar.rs"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "id": 12339226186,
+        "lat": 44.8034056,
+        "lon": 20.4450142,
+        "tags": {
+            "alt_name": "Kentucky Fried Chicken",
+            "amenity": "fast_food",
+            "brand": "KFC",
+            "brand:wikidata": "Q524757",
+            "cuisine": "chicken",
+            "drive_through": "no",
+            "name": "KFC",
+            "opening_hours": "Mo-Su 10:00-22:00",
+            "phone": "+381 64 8730035",
+            "smoking": "outside",
+            "takeaway": "yes",
+            "website": "https://kfc.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "id": 12362315364,
+        "lat": 44.8168182,
+        "lon": 20.4572858,
+        "tags": {
+            "addr:housenumber": "6",
+            "addr:street": "Змај Јовина",
+            "amenity": "fast_food",
+            "check_date": "2024-11-21",
+            "cuisine": "sandwich",
+            "drive_through": "no",
+            "level": "0",
+            "name": "Češnili",
+            "opening_hours": "Mo-Sa 11:00-21:00; Su off",
+            "smoking": "no"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 12376672386,
+        "lat": 44.7971853,
+        "lon": 20.4772298,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "39",
+            "addr:postcode": "11000",
+            "addr:street": "Максима Горког",
+            "amenity": "fast_food",
+            "contact:instagram": "https://www.instagram.com/haslers.rs",
+            "cuisine": "burger",
+            "delivery": "yes",
+            "delivery:partner": "Wolt",
+            "drive_through": "no",
+            "name": "Haslers",
+            "opening_hours": "Tu-Su 11:00-23:00",
+            "phone": "+381 63 7680967",
+            "smoking": "no",
+            "wheelchair": "no"
+        }
+    },
+    {
+        "amenity": "cafe",
+        "cuisine": "french",
+        "id": 12500732539,
+        "lat": 44.8213371,
+        "lon": 20.4547523,
+        "tags": {
+            "addr:housenumber": "4",
+            "addr:street": "Пјарона де Мондезира",
+            "amenity": "cafe",
+            "cuisine": "french",
+            "name": "La Boulangerie",
+            "opening_hours": "08:00-22:00",
+            "smoking": "outside",
+            "website": "https://www.instagram.com/la_boulangerie_belgrade/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "balkan",
+        "id": 12528663773,
+        "lat": 44.8037515,
+        "lon": 20.4452675,
+        "tags": {
+            "amenity": "restaurant",
+            "brand": "Walter",
+            "cuisine": "balkan",
+            "highchair": "yes",
+            "level": "1",
+            "name": "Walter",
+            "outdoor_seating": "yes",
+            "smoking": "outside"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 12555785688,
+        "lat": 44.7846392,
+        "lon": 20.4939502,
+        "tags": {
+            "addr:housenumber": "127",
+            "addr:street": "Устаничка",
+            "amenity": "restaurant",
+            "contact:instagram": "https://www.instagram.com/restorandusanovo",
+            "cuisine": "regional",
+            "int_name": "Dusanovo carstvo",
+            "kids_area": "yes",
+            "kids_area:indoor": "yes",
+            "kids_area:outdoor": "yes",
+            "name": "Душаново царство",
+            "name:sr": "Душаново царство",
+            "name:sr-Latn": "Dušanovo carstvo",
+            "opening_hours": "Mo-We 08:00-23:00; Th-Sa 08:00-01:00",
+            "outdoor_seating": "yes",
+            "phone": "+381113479050",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "id": 12567876306,
+        "lat": 44.8229363,
+        "lon": 20.4594105,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "sandwich",
+            "drive_through": "no",
+            "name": "San Panino",
+            "opening_hours": "Mo-Fr 09:00-18:00; Sa 10:00-18:00",
+            "phone": "+381 637027623",
+            "smoking": "outside",
+            "website": "https://sanpanino.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 12616337719,
+        "lat": 44.8184315,
+        "lon": 20.4568327,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "burger",
+            "name": "Sticky fingers"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 12621296888,
+        "lat": 44.8079365,
+        "lon": 20.3842772,
+        "tags": {
+            "amenity": "fast_food",
+            "check_date": "2025-03-06",
+            "cuisine": "regional",
+            "int_name": "Carsija",
+            "name": "Чаршија",
+            "phone": "+381 66 5888555",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "id": 12669645941,
+        "lat": 44.7979879,
+        "lon": 20.482855,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "78",
+            "addr:postcode": "11000",
+            "addr:street": "Цара Николаја II",
+            "amenity": "fast_food",
+            "check_date": "2025-09-10",
+            "contact:instagram": "https://www.instagram.com/bgd.deli/",
+            "cuisine": "sandwich",
+            "delivery": "yes",
+            "delivery:partner": "Wolt",
+            "name": "BGD Deli",
+            "opening_hours": "Mo-Sa 11:00-23:00; Su 12:00-22:00",
+            "smoking": "no",
+            "website": "https://bgddeli.com/",
+            "website:menu": "https://bgddeli.com/",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "local",
+        "id": 12692647316,
+        "lat": 44.8051425,
+        "lon": 20.4661714,
+        "tags": {
+            "addr:housenumber": "2",
+            "addr:street": "Његошева",
+            "amenity": "restaurant",
+            "bar": "yes",
+            "check_date": "2025-07-16",
+            "contact:facebook": "https://www.facebook.com/gastrobarpark/",
+            "contact:instagram": "https://www.instagram.com/gastrobarpark/",
+            "cuisine": "local",
+            "delivery": "yes",
+            "highchair": "yes",
+            "int_name": "PARK Gastro Bar",
+            "internet_access:fee": "no",
+            "name": "PARK Gastro Bar",
+            "name:sr": "ПАРК Гастро Бар",
+            "name:sr-Latn": "PARK Gastro Bar",
+            "opening_hours": "Mo-Su 06:30-23:00",
+            "payment:american_express": "yes",
+            "payment:credit_cards": "yes",
+            "payment:mastercard": "yes",
+            "payment:visa": "yes",
+            "payment:visa_debit": "yes",
+            "phone": "+381 113661183",
+            "smoking": "no",
+            "website": "https://gastrobarpark.rs/",
+            "website:menu": "https://gastrobarpark.rs/meni/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 12697044474,
+        "lat": 44.7526206,
+        "lon": 20.4552924,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "regional",
+            "name": "Homer"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "id": 12698184895,
+        "lat": 44.8114529,
+        "lon": 20.472151,
+        "tags": {
+            "amenity": "fast_food",
+            "contact:instagram": "https://www.instagram.com/panilulac/",
+            "cuisine": "sandwich",
+            "name": "Panilulac",
+            "opening_hours": "Tu-Su 09:00-17:00",
+            "smoking": "no"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 12798565670,
+        "lat": 44.8005162,
+        "lon": 20.4710825,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "2",
+            "addr:postcode": "11000",
+            "addr:street": "Коче Капетана",
+            "amenity": "fast_food",
+            "check_date": "2025-06-05",
+            "contact:facebook": "zburgerrr",
+            "contact:instagram": "zburgerr",
+            "cuisine": "burger",
+            "diet:vegan": "no",
+            "diet:vegetarian": "no",
+            "int_name": "Z burger",
+            "name": "Ж Burger",
+            "name:sr": "Ж бургер",
+            "name:sr-Latn": "Ž burger",
+            "opening_hours": "Mo-Su 16:00-22:00",
+            "operator": "MARKO ŽIVADINOVIĆ pr",
+            "outdoor_seating": "no",
+            "payment:cards": "no",
+            "payment:cash": "yes",
+            "payment:credit_cards": "no",
+            "payment:debit_cards": "no",
+            "phone": "+381 638062747",
+            "smoking": "no",
+            "website": "https://zburger.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 12801044222,
+        "lat": 44.8109572,
+        "lon": 20.4600881,
+        "tags": {
+            "air_conditioning": "yes",
+            "amenity": "fast_food",
+            "check_date": "2025-07-18",
+            "cuisine": "burger",
+            "name": "Big Daddy",
+            "opening_hours": "Mo-Fr 10:00-23:30",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "smoking": "no",
+            "takeaway": "yes",
+            "wheelchair": "no"
+        }
+    },
+    {
+        "amenity": "cafe",
+        "cuisine": "burger",
+        "id": 12818281333,
+        "lat": 44.841672,
+        "lon": 20.3935264,
+        "tags": {
+            "addr:housenumber": "4",
+            "addr:street": "Горњоградска",
+            "amenity": "cafe",
+            "check_date": "2025-05-10",
+            "contact:instagram": "caffe_orange",
+            "cuisine": "burger",
+            "name": "Orange",
+            "phone": "+381 61 615 79 79"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "grill",
+        "id": 12820790079,
+        "lat": 44.8015396,
+        "lon": 20.5237579,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "169A",
+            "addr:street": "Драгослава Срејовића",
+            "amenity": "restaurant",
+            "contact:instagram": "mrkehgrill",
+            "cuisine": "grill",
+            "delivery": "yes",
+            "delivery:partner": "Wolt;Glovo",
+            "name": "Mr. Keh Grill",
+            "opening_hours": "Mo-Su 12:00-23:30",
+            "phone": "+381 67 7371 959",
+            "television": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 12826527962,
+        "lat": 44.8417218,
+        "lon": 20.3935483,
+        "tags": {
+            "amenity": "fast_food",
+            "check_date": "2025-05-10",
+            "contact:instagram": "burgermeister_srbija",
+            "cuisine": "burger",
+            "name": "Burgermeister",
+            "start_date": "2024"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "id": 12834754982,
+        "lat": 44.8168922,
+        "lon": 20.5089445,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "84",
+            "addr:postcode": "11000",
+            "addr:street": "Вишњичка",
+            "alt_name": "Kentucky Fried Chicken",
+            "amenity": "fast_food",
+            "brand": "KFC",
+            "brand:wikidata": "Q524757",
+            "cuisine": "chicken",
+            "level": "2",
+            "name": "KFC",
+            "opening_hours": "Mo-Su 09:00-22:00",
+            "phone": "+381 64 8730021",
+            "smoking": "no",
+            "takeaway": "yes",
+            "website": "https://kfc.rs/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "fish",
+        "id": 12872020337,
+        "lat": 44.8501663,
+        "lon": 20.3943259,
+        "tags": {
+            "amenity": "restaurant",
+            "check_date": "2025-05-28",
+            "cuisine": "fish",
+            "name": "Zlatnik",
+            "opening_hours": "11:00-23:00"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "russian",
+        "id": 12888846712,
+        "lat": 44.8156794,
+        "lon": 20.3957366,
+        "tags": {
+            "addr:postcode": "11070",
+            "amenity": "fast_food",
+            "check_date": "2026-07-08",
+            "contact:telegram": "https://t.me/BerezkaBeograd2025",
+            "cuisine": "russian",
+            "drive_through": "no",
+            "indoor_seating": "yes",
+            "int_name": "Berezka",
+            "name": "Березка",
+            "name:en": "Berezka",
+            "name:ru": "Берёзка",
+            "name:sr": "Березка",
+            "name:sr-Latn": "Berezka",
+            "opening_hours": "08:00-22:00",
+            "outdoor_seating": "yes",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "self_service": "yes",
+            "shop": "convenience",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "greek",
+        "id": 12894783169,
+        "lat": 44.8022081,
+        "lon": 20.4459107,
+        "tags": {
+            "amenity": "fast_food",
+            "check_date": "2025-06-07",
+            "cuisine": "greek",
+            "drive_through": "no",
+            "level": "2",
+            "name": "Mr. Greek",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "smoking": "no"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 12894783175,
+        "lat": 44.8022782,
+        "lon": 20.4462002,
+        "tags": {
+            "addr:housenumber": "14",
+            "addr:street": "Булевар Вудроа Вилсона",
+            "amenity": "fast_food",
+            "check_date": "2025-06-07",
+            "cuisine": "burger",
+            "drive_through": "no",
+            "level": "2",
+            "name": "Smash BRT Burger",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "smoking": "no"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "id": 12894783179,
+        "lat": 44.8021126,
+        "lon": 20.4460572,
+        "tags": {
+            "addr:housenumber": "14",
+            "addr:street": "Булевар Вудроа Вилсона",
+            "amenity": "fast_food",
+            "check_date": "2025-06-07",
+            "cuisine": "chicken",
+            "drive_through": "no",
+            "level": "2",
+            "name": "Krispy Chicken",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "smoking": "no"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "shawarma",
+        "id": 12925449482,
+        "lat": 44.8139454,
+        "lon": 20.455742,
+        "tags": {
+            "amenity": "fast_food",
+            "check_date": "2025-06-19",
+            "cuisine": "shawarma",
+            "name": "Real Berlin Doner"
+        }
+    },
+    {
+        "amenity": "cafe",
+        "cuisine": "balkan",
+        "id": 12951236602,
+        "lat": 44.7971652,
+        "lon": 20.4714907,
+        "tags": {
+            "addr:housenumber": "33",
+            "addr:postcode": "11000",
+            "addr:street": "Патријарха Варнаве",
+            "amenity": "cafe",
+            "contact:instagram": "cuburskakutlaca",
+            "cuisine": "balkan",
+            "name": "Čuburska Kutlača",
+            "name:en": "Chuburska Kutlacha",
+            "opening_hours": "Mo-Fr 10:00-17:00",
+            "phone": "011 38 62 159;062 55 44 70"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 12956036581,
+        "lat": 44.8083142,
+        "lon": 20.4699905,
+        "tags": {
+            "amenity": "fast_food",
+            "check_date": "2025-09-15",
+            "cuisine": "burger",
+            "name": "Gorilla",
+            "name:en": "Gorilla",
+            "opening_hours": "Mo off; Tu-Su 10:00-02:00"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 12965866358,
+        "lat": 44.8459021,
+        "lon": 20.3815704,
+        "tags": {
+            "amenity": "fast_food",
+            "check_date": "2025-06-21",
+            "cuisine": "burger",
+            "name": "The Boyz",
+            "opening_hours": "11:00-23:00"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "id": 13011814158,
+        "lat": 44.7961262,
+        "lon": 20.4691077,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "6",
+            "addr:postcode": "11000",
+            "addr:street": "Браничевска",
+            "amenity": "restaurant",
+            "contact:instagram": "lentrecote.belgrade",
+            "cuisine": "french",
+            "name": "L’Entrecote",
+            "opening_hours": "Mo-Fr 08:00-24:00; Sa-Su 08:30-24:00",
+            "phone": "+381 64 2306666"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 13015480137,
+        "lat": 44.7981988,
+        "lon": 20.4766059,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "6",
+            "addr:postcode": "11000",
+            "addr:street": "Максима Горког",
+            "amenity": "fast_food",
+            "cuisine": "burger",
+            "drive_through": "no",
+            "name": "Mc DEK",
+            "opening_hours": "Mo-Sa 09:00-00:00; Su off",
+            "phone": "+381 11 2445626",
+            "wheelchair": "limited"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 13015821049,
+        "lat": 44.7982586,
+        "lon": 20.474951,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "14",
+            "addr:postcode": "11000",
+            "addr:street": "Новопазарска",
+            "amenity": "fast_food",
+            "contact:instagram": "sur.mara",
+            "cuisine": "burger",
+            "name": "Мара",
+            "name:en": "Mara",
+            "name:sr": "Мара",
+            "name:sr-Latn": "Mara",
+            "opening_hours": "Mo-Sa 09:00-24:00; Su off",
+            "phone": "+381 11 2455125"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "regional",
+        "id": 13033532883,
+        "lat": 44.7974917,
+        "lon": 20.4743136,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:postcode": "11000",
+            "addr:street": "Макензијева",
+            "amenity": "fast_food",
+            "cuisine": "regional",
+            "name": "Giros Ana",
+            "opening_hours": "Mo-Su 09:00-22:00",
+            "operator": "MILOŠEVIĆ BRANISLAV pr",
+            "phone": "+381 65 4448029;+381 62 8926661"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 13041924654,
+        "lat": 44.7397559,
+        "lon": 20.4387787,
+        "tags": {
+            "amenity": "fast_food",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "cuisine": "burger",
+            "drive_through": "yes",
+            "name": "McDonald's",
+            "opening_hours": "Mo-Su 08:00-24:00",
+            "opening_hours:drive_through": "24/7",
+            "outdoor_seating": "yes",
+            "smoking": "outside",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "fish",
+        "id": 13047948799,
+        "lat": 44.922938,
+        "lon": 20.3218366,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "fish",
+            "diet:fish": "yes",
+            "name": "Sipetovo sokače",
+            "name:sr": "Сипетово сокаче",
+            "name:sr-Latn": "Sipetovo sokače",
+            "opening_hours": "Mo-Su 08:00-23:00"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "fish",
+        "id": 13047948800,
+        "lat": 44.9227452,
+        "lon": 20.3220522,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "fish",
+            "diet:fish": "yes",
+            "name": "Obala",
+            "name:sr": "Обала",
+            "name:sr-Latn": "Obala"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 13051005076,
+        "lat": 44.7679435,
+        "lon": 20.4197046,
+        "tags": {
+            "addr:housenumber": "102g",
+            "addr:street": "Благоја Паровића",
+            "amenity": "fast_food",
+            "contact:instagram": "https://www.instagram.com/SmashBurgersBG/",
+            "cuisine": "burger",
+            "drive_through": "no",
+            "name": "Smash Burgers",
+            "opening_hours": "Mo-Su 11:00-23:00",
+            "phone": "+381 60 5555561",
+            "smoking": "outside",
+            "website": "https://smashburgers.rs/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 13061391761,
+        "lat": 44.7994838,
+        "lon": 20.4735408,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "10",
+            "addr:postcode": "11000",
+            "addr:street": "Невесињска",
+            "amenity": "restaurant",
+            "cuisine": "regional",
+            "name": "Talija bistro",
+            "opening_hours": "Mo off; Tu-Su 10:00-22:00",
+            "payment:cards": "yes",
+            "payment:cash": "yes",
+            "start_date": "2025-04",
+            "surveillance": "yes"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "local",
+        "id": 13086572102,
+        "lat": 44.4681372,
+        "lon": 20.5809112,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "local",
+            "int_name": "Vilino korito",
+            "name": "Вилино корито"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 13128393394,
+        "lat": 44.802646,
+        "lon": 20.4790213,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "10",
+            "addr:postcode": "11000",
+            "addr:street": "Синђелићева",
+            "amenity": "restaurant",
+            "contact:instagram": "kodpribojca",
+            "cuisine": "regional",
+            "indoor_seating": "yes",
+            "int_name": "Cevabdzinica Kod Pribojca",
+            "name": "Ћевабџиница Код Прибојца",
+            "name:sr": "Ћевабџиница Код Прибојца",
+            "name:sr-Latn": "Ćevabdzinica Kod Pribojca",
+            "opening_hours": "Mo-Su 09:00-23:00",
+            "operator": "LUKSONA d.o.o.",
+            "outdoor_seating": "no",
+            "phone": "+381 65 5159405"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "id": 13161719086,
+        "lat": 44.8057103,
+        "lon": 20.4983427,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "sandwich",
+            "name": "Put za šumu"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "barbecue",
+        "id": 13167812573,
+        "lat": 44.8017187,
+        "lon": 20.4758887,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "21",
+            "addr:postcode": "11000",
+            "addr:street": "Кичевска",
+            "amenity": "restaurant",
+            "cuisine": "barbecue",
+            "name": "Pečenjara mali tabor - Kod Čiče",
+            "name:en": "Grillhouse Mali Tabor - Kod Cice",
+            "name:sr": "Печењара мали табор - Код Чиче",
+            "name:sr-Latn": "Pečenjara mali tabor - Kod Čiče",
+            "opening_hours": "Mo-Su 07:00-20:00",
+            "wheelchair": "no"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "sandwich",
+        "id": 13181360965,
+        "lat": 44.8229747,
+        "lon": 20.4560335,
+        "tags": {
+            "addr:housenumber": "3",
+            "addr:street": "Риге од Фере",
+            "amenity": "fast_food",
+            "contact:instagram": "https://www.instagram.com/soulvidebelgrade/",
+            "cuisine": "sandwich",
+            "name": "Soul Vide",
+            "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-22:00",
+            "smoking": "outside"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "gyros",
+        "id": 13229657713,
+        "lat": 44.8168522,
+        "lon": 20.5089859,
+        "tags": {
+            "amenity": "fast_food",
+            "brand": "Richard Gyros",
+            "contact:instagram": "https://www.instagram.com/richardgyros.rs/",
+            "cuisine": "gyros",
+            "level": "2",
+            "name": "Richard Gyros",
+            "smoking": "no",
+            "website": "https://www.richardgyros.rs/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "greek",
+        "id": 13275373815,
+        "lat": 44.8018872,
+        "lon": 20.4458723,
+        "tags": {
+            "amenity": "restaurant",
+            "check_date": "2025-11-02",
+            "cuisine": "greek",
+            "level": "0",
+            "name": "Piatakia"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "id": 13288984701,
+        "lat": 44.8169053,
+        "lon": 20.4748003,
+        "tags": {
+            "addr:housenumber": "62",
+            "addr:street": "Булевар деспота Стефана",
+            "amenity": "restaurant",
+            "cuisine": "sandwich",
+            "name": "Pastrami Belgrade",
+            "opening_hours": "Mo-Sa 11:00-22:00"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 13289496834,
+        "lat": 44.7757183,
+        "lon": 20.4893565,
+        "tags": {
+            "addr:housenumber": "32",
+            "addr:street": "Заплањска",
+            "amenity": "fast_food",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "cuisine": "burger",
+            "drive_through": "no",
+            "level": "2",
+            "name": "McDonald's",
+            "opening_hours": "Mo-Su 10:00-22:00",
+            "smoking": "no",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "russian",
+        "id": 13440515752,
+        "lat": 44.7944771,
+        "lon": 20.4927183,
+        "tags": {
+            "amenity": "fast_food",
+            "contact:telegram": "https://t.me/BerezkaBeograd2025",
+            "cuisine": "russian",
+            "int_name": "Berezka",
+            "name": "Березка",
+            "name:ru": "Берёзка",
+            "name:sr": "Березка",
+            "name:sr-Latn": "Berezka",
+            "opening_hours": "08:00-22:00",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "shop": "convenience",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "russian",
+        "id": 13506395362,
+        "lat": 44.7700906,
+        "lon": 20.417726,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "27a",
+            "addr:postcode": "11030",
+            "addr:street": "Благоја Паровића",
+            "amenity": "fast_food",
+            "contact:instagram": "https://www.instagram.com/matreshka.beograd/",
+            "cuisine": "russian",
+            "drive_through": "no",
+            "name": "Matreshka",
+            "name:sr": "Матрешка",
+            "name:sr-Latn": "Matreshka",
+            "opening_hours": "Mo-Fr 09:00-18:00; Sa-Su 12:00-20:00",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "id": 13528611359,
+        "lat": 44.8133576,
+        "lon": 20.424717,
+        "tags": {
+            "amenity": "fast_food",
+            "contact:instagram": "amigoschickenwings",
+            "cuisine": "chicken",
+            "drive_through": "no",
+            "level": "0",
+            "name": "Amigos Chicken Wings",
+            "phone": "+381 69 700310;+381 69 700330;+381 69 700360",
+            "smoking": "no",
+            "takeaway": "yes",
+            "website": "https://amigos.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "id": 13588159535,
+        "lat": 44.7761018,
+        "lon": 20.4135815,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "126",
+            "addr:postcode": "11030",
+            "addr:street": "Пожешка",
+            "amenity": "fast_food",
+            "capacity": "0",
+            "cuisine": "chicken",
+            "delivery": "yes",
+            "diet:cheese": "yes",
+            "diet:chicken": "yes",
+            "level": "0",
+            "name": "Fricken Chicken",
+            "opening_hours": "Mo-Su 09:00-23:00",
+            "outdoor_seating": "no",
+            "payment:cash": "yes",
+            "payment:contactless": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "payment:dinacard": "yes",
+            "payment:mastercard": "yes",
+            "payment:visa": "yes",
+            "phone": "+381605308008",
+            "takeaway": "yes"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "balkan",
+        "id": 13609484519,
+        "lat": 44.8447992,
+        "lon": 20.4144244,
+        "tags": {
+            "amenity": "restaurant",
+            "contact:instagram": "https://www.instagram.com/pret_op/",
+            "cuisine": "balkan",
+            "int_name": "Pretop",
+            "name": "Претоп",
+            "name:sr": "Претоп",
+            "name:sr-Latn": "Pretop",
+            "opening_hours": "We 08:00-14:00, Th-Fr 08:00-16:00, Sa-Su 08:00-17:00"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "fish",
+        "id": 13759034394,
+        "lat": 44.7720093,
+        "lon": 20.4130687,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "fish",
+            "int_name": "Konoba kod Doktora",
+            "name": "Коноба код Доктора",
+            "name:sr": "Коноба код Доктора"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "shawarma",
+        "id": 13762805662,
+        "lat": 44.795305,
+        "lon": 20.4780796,
+        "tags": {
+            "amenity": "fast_food",
+            "check_date": "2026-05-24",
+            "contact:instagram": "https://www.instagram.com/shavarma_patrol",
+            "cuisine": "shawarma",
+            "name": "Shavarma patrol",
+            "opening_hours": "Mo-Su 12:00-21:00",
+            "smoking": "outside"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "id": 13790830089,
+        "lat": 44.8175881,
+        "lon": 20.4568362,
+        "tags": {
+            "addr:housenumber": "3",
+            "addr:street": "Ђуре Јакшића",
+            "amenity": "restaurant",
+            "contact:instagram": "https://www.instagram.com/perlosburger/",
+            "cuisine": "burger",
+            "email": "perlos.serbia@gmail.com",
+            "name": "Perlo's Burgers",
+            "name:sr": "Перло бургери",
+            "name:sr-Latn": "Perlo Burgeri",
+            "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-23:30",
+            "smoking": "outside",
+            "website": "https://perlos.com.tr/en/"
+        }
+    },
+    {
+        "amenity": "cafe",
+        "cuisine": "sandwich",
+        "id": 13871847472,
+        "lat": 44.7999857,
+        "lon": 20.475203,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:place": "Kalenić pijaca",
+            "addr:plot": "225",
+            "addr:postcode": "11000",
+            "amenity": "cafe",
+            "contact:instagram": "bistroduska",
+            "cuisine": "sandwich",
+            "delivery": "yes",
+            "delivery:partner": "Wolt",
+            "diet:vegetarian": "yes",
+            "name": "Bistro Duška",
+            "opening_hours": "Tu-Su 08:00-16:00",
+            "outdoor_seating": "yes",
+            "phone": "+381 62 8433006"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "id": 13895515775,
+        "lat": 44.8216172,
+        "lon": 20.4641266,
+        "tags": {
+            "addr:floor": "G",
+            "addr:housenumber": "32",
+            "addr:street": "Кнегиње Љубице",
+            "amenity": "restaurant",
+            "check_date": "2026-05-30",
+            "cuisine": "sandwich",
+            "level": "0",
+            "name": "Paninoteca",
+            "opening_hours": "10:00-22:00",
+            "smoking": "no"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "serbian",
+        "id": 13912583352,
+        "lat": 44.7732882,
+        "lon": 20.4198933,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "37",
+            "addr:postcode": "11030",
+            "addr:street": "Петра Мартиновића",
+            "amenity": "restaurant",
+            "cuisine": "serbian",
+            "loc_name": "Era1968 Srpska Kuca",
+            "name": "Serbian House",
+            "opening_hours": "Tu-Sa 10:00-23:00",
+            "phone": "+381 11 354 3470",
+            "website": "http://erakucasrpskakuca.rs/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "serbian",
+        "id": 13912643622,
+        "lat": 44.7832372,
+        "lon": 20.4215385,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "20",
+            "addr:postcode": "11030",
+            "addr:street": "Пожешка",
+            "amenity": "restaurant",
+            "cuisine": "serbian",
+            "name": "Beervana gastro pub",
+            "opening_hours": "Mo-Su 08:00-00:00",
+            "phone": "+381 63 548 988",
+            "website": "https://beervana.rs/food/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 13912710942,
+        "lat": 44.813864,
+        "lon": 20.3970312,
+        "tags": {
+            "addr:floor": "G",
+            "amenity": "fast_food",
+            "check_date": "2026-06-05",
+            "cuisine": "burger",
+            "level": "0",
+            "name": "Oči Gladne",
+            "name:sr-Latn": "Oči Gladne"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "fish_and_chips",
+        "id": 13915126037,
+        "lat": 44.8193032,
+        "lon": 20.4677466,
+        "tags": {
+            "amenity": "fast_food",
+            "cuisine": "fish_and_chips",
+            "name": "Kum",
+            "opening_hours": "Tu-Su 07:30-15:30",
+            "phone": "+381 11 3236379"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "id": 13917430999,
+        "lat": 44.793898,
+        "lon": 20.460511,
+        "tags": {
+            "amenity": "restaurant",
+            "check_date": "2026-06-07",
+            "contact:facebook": "https://www.facebook.com/restoranizavicaj/",
+            "contact:instagram": "https://www.instagram.com/restoranizavicaj/",
+            "contact:tiktok": "https://www.tiktok.com/@restorani_zavicaj",
+            "cuisine": "regional",
+            "email": "info@zavicaj.rs",
+            "int_name": "Zavicaj",
+            "name": "Zavičaj",
+            "name:sr": "Завичај",
+            "name:sr-Latn": "Zavičaj",
+            "opening_hours": "Mo-Su 07:00-23:00",
+            "phone": "+381 69 2626150",
+            "website": "https://www.restoranzavicaj.rs"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 13927038376,
+        "lat": 44.8126605,
+        "lon": 20.4043617,
+        "tags": {
+            "air_conditioning": "yes",
+            "amenity": "fast_food",
+            "brand": "McDonald's",
+            "brand:wikidata": "Q38076",
+            "brand:wikipedia": "en:McDonald's",
+            "check_date": "2026-06-10",
+            "cuisine": "burger",
+            "drive_through": "yes",
+            "name": "McDonald's",
+            "opening_hours": "Mo-Fr 07:00-24:00",
+            "payment:cards": "yes",
+            "payment:cash": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "payment:mastercard": "yes",
+            "payment:visa": "yes",
+            "takeaway": "yes",
+            "website": "https://www.mcdonalds.rs/"
+        }
+    },
+    {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "id": 13970492390,
+        "lat": 44.7831188,
+        "lon": 20.5018061,
+        "tags": {
+            "addr:city": "Београд",
+            "addr:housenumber": "170e",
+            "addr:street": "Устаничка",
+            "amenity": "fast_food",
+            "contact:instagram": "https://www.instagram.com/haslers.rs",
+            "cuisine": "burger",
+            "delivery": "yes",
+            "drive_through": "no",
+            "name": "Haslers",
+            "opening_hours": "Tu-Su 11:00-23:00",
+            "phone": "+381 65 2874374",
+            "smoking": "no",
+            "website": "https://haslers.rs/"
+        }
+    },
+    {
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "id": 13987979643,
+        "lat": 44.8200586,
+        "lon": 20.5277324,
+        "tags": {
+            "amenity": "restaurant",
+            "cuisine": "seafood",
+            "name": "Naša Marina",
+            "name:en": "Our Dock",
+            "name:sr": "Наша Марина",
+            "name:sr-Latn": "Naša Marina",
+            "opening_hours": "Mo-Su 10:00-22:00"
+        }
+    }
+]
