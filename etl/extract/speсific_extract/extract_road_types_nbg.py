@@ -1,11 +1,11 @@
-from etl.extract.common.extract_base import BaseExtraction
+from etl.extract.common.extract_way import ExtractWay
 
 
-class RoadsExtraction(BaseExtraction):
+class RoadsExtractionNbg(ExtractWay):
     def extractResidentalRoads(self):
-        return self.extractBase(
+        return self.extractWay(
             inputFilePath="data/raw_data/roadsAllNbg.json",
-            outputFilePath="data/extracted_data/residentialRoads.json",
+            outputFilePath="data/extracted_data/residentialRoadsNbg.json",
             jsonTypeOfObject="type",
             jsonValueOfObject="way",
             jsonMainNodeType="tags",
@@ -13,14 +13,15 @@ class RoadsExtraction(BaseExtraction):
             jsonSubNodeValue="residential",
             outputMapping={
                 "id": "id",
-                "tags": "tags"
+                "tags": "tags",
+                "geometry": "geometry"
             }
         )
 
     def extractPrimaryRoads(self):
-        return self.extractBase(
+        return self.extractWay(
             inputFilePath="data/raw_data/roadsAllNbg.json",
-            outputFilePath="data/extracted_data/primaryRoads.json",
+            outputFilePath="data/extracted_data/primaryRoadsNbg.json",
             jsonTypeOfObject="type",
             jsonValueOfObject="way",
             jsonMainNodeType="tags",
@@ -28,14 +29,15 @@ class RoadsExtraction(BaseExtraction):
             jsonSubNodeValue="primary",
             outputMapping={
                 "id": "id",
+                "geometry": "geometry",
                 "tags": "tags"
             }
         )
 
     def extractSecondaryRoads(self):
-        return self.extractBase(
+        return self.extractWay(
             inputFilePath="data/raw_data/roadsAllNbg.json",
-            outputFilePath="data/extracted_data/secondaryRoads.json",
+            outputFilePath="data/extracted_data/secondaryRoadsNbg.json",
             jsonTypeOfObject="type",
             jsonValueOfObject="way",
             jsonMainNodeType="tags",
@@ -43,6 +45,7 @@ class RoadsExtraction(BaseExtraction):
             jsonSubNodeValue="secondary",
             outputMapping={
                 "id": "id",
+                "geometry": "geometry",
                 "tags": "tags"
             }
         )
